@@ -2,7 +2,7 @@
 
 Fornvyr är ett svenskt bordsrollspel om människor som tillsammans förändrar sin värld. Reglerna utgår från Fate Condensed. Världen heter Mundor: en medeltida värld där gudar, väsen och andra övernaturliga krafter är verkliga. En ny kampanj börjar normalt år 1280; därefter avgör spelgruppens handlingar vad som händer.
 
-**Version 0.1 är ett spelbart förslag för provspelning.** Användarens grundidéer finns i [projektdefinitionen](knowledge/projekt.md). Nya regler, metafysiska förklaringar och exempel är designförslag, inte redan fastställd kanon. Kulturöversikten är ett källbelagt första urval med global räckvidd, inte en fullständig katalog över världens alla traditioner.
+**Version 0.1 är ett spelbart förslag för provspelning.** Användarens grundidéer finns i [projektdefinitionen](knowledge/projekt.md). Speltexten beskriver vad som gäller i Mundor, oavsett företeelsernas historiska ursprung. Forskningsunderlag, referenser och designresonemang samlas i `knowledge/`. Kulturernas underlag är ett första urval med global räckvidd, inte en fullständig katalog över världens alla traditioner.
 
 ## Börja spela
 
@@ -14,12 +14,13 @@ Fornvyr är ett svenskt bordsrollspel om människor som tillsammans förändrar 
 ## Lär känna Mundor
 
 - [Mundor år 1280](story/varld/mundor.md): världspremiss, kartor, vardag och spelarnas inflytande.
-- [Föreställningar per kultur](story/varld/kulturer.md): historiska belägg, dateringsproblem och tydligt åtskilda spelidéer.
-- [Tregrunden och alternativen](knowledge/magins-grund.md): prövning av livskraft, fysisk form och magisk väv, inklusive modellens gränser.
+- [Kulturer och traditioner](story/varld/kulturer.md): människor, heliga platser och övernaturliga krafter i världens olika delar.
 
 ## Utveckla Fornvyr
 
 [Arbetsformer](arbetsformer.md) beskriver ett lokalt anpassat förslag från WoW. [Berättelsespåret](story/README.md) äger spelmaterialet; [ingenjörsspåret](engineering/README.md) äger eventuella framtida verktyg, som ska skrivas i Topal.
+
+[Kulturunderlag](knowledge/kulturunderlag.md) och [underlag för värld och regler](knowledge/varldsunderlag.md) skiljer historiska belägg från världsval. [Tregrunden och alternativen](knowledge/magins-grund.md) prövar magins modell och dess gränser.
 
 [Designval och Fate-jämförelse](knowledge/designval.md), [källförteckning](knowledge/kallor.md) och [granskning och provspelningsplan](knowledge/granskning.md) gör underlaget granskningsbart. [AI-användning](AI-USAGE.md) redovisar omfattningen av denna leverans.
 

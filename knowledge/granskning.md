@@ -29,19 +29,35 @@ Granskad 2026-11-15. Kontrollen omfattar redaktionell läsning, konstruerade reg
 
 ## Vad kontrollerna inte visar
 
-Att ett exempel går att räkna igenom visar inte att det går snabbt för en ny spelare. Kulturöversikten har global räckvidd men är ojämn: vissa avsnitt bygger på tidsnära föremål, andra på senare traditioner eller forskningsabstract. Den är ett första forskningsunderlag, inte färdig regional sakgranskning.
+Att ett exempel går att räkna igenom visar inte att det går snabbt för en ny spelare. Kulturunderlaget har global räckvidd men är ojämn: vissa avsnitt bygger på tidsnära föremål, andra på senare traditioner eller forskningsabstract. Den är ett första forskningsunderlag, inte färdig regional sakgranskning.
 
 Avgränsningen mellan en lokal effekt och naturligt större följder behöver prövas vid bordet. Samma sak gäller starka skyddsaspekter, breda färdigheter, frivilliga komplikationers poängflöde och när förberedelser ger en ny verklig fördel. Dessa frågor kan kräva ändrade regler efter deltagarnas erfarenheter.
 
 Inget nytt verktyg har implementerats, så programtester är inte tillämpliga. Tekniska dokumentkontroller avser filinnehåll och länkar, inte reglernas balans eller historiska sanning.
 
-Filkontroll: 72 relativa dokumentlänkar kontrollerades mot repositoryts filer utan saknade mål. Samtliga 22 Markdown-filer, inklusive de tre befintliga bidrags- och licensfilerna, lästes för länk- och blankstegskontroll; inga avslutande blanksteg hittades. Inga externa länkar påstås ha genomgått en fullständig tillgänglighetskontroll. Befintliga versionshanterade filer är oförändrade; de nya filernas innehåll kontrollerades separat eftersom vanlig `git diff --check` inte granskar ospårade filer.
+Ursprunglig filkontroll före PR #1: 72 relativa dokumentlänkar kontrollerades mot repositoryts filer utan saknade mål. Samtliga 22 Markdown-filer, inklusive de tre befintliga bidrags- och licensfilerna, lästes för länk- och blankstegskontroll; inga avslutande blanksteg hittades. Inga externa länkar påstås ha genomgått en fullständig tillgänglighetskontroll. Befintliga versionshanterade filer är oförändrade; de nya filernas innehåll kontrollerades separat eftersom vanlig `git diff --check` inte granskar ospårade filer.
+
+## Kontroll av uppdelningen mellan knowledge och story
+
+Uppdateringen gjordes efter att PR #1 fanns på GitHub. Det tidigare kulturkapitlets forskningsunderlag har flyttats till knowledge, och speltexten har skrivits om som beskrivningar av Mundor. Kartans underlag och spelreglernas ursprung redovisas också i knowledge.
+
+- Alla 36 unika externa källadresser från de tidigare världsavsnitten finns kvar i knowledge. Dateringsbegränsningar och uppgifter om begränsad källåtkomst är bevarade; ingen ny historisk verifiering påstås.
+- Kulturavsnitten och deras forskningsunderlag har motsvarande numrering 1–25. De tre kortare landskapsbeskrivningarna har också kvar sitt underlag.
+- Samtliga 24 Markdown-filer kontrollerades. 86 relativa dokumentlänkar hade befintliga mål och inga avslutande blanksteg hittades.
+- Ingen extern URL eller länk till knowledge finns i story. Redaktionell genomläsning kontrollerade att forskningsreservationer och markeringar om påhittat ursprung har ersatts av direkt speltext.
+- Diffen för grundregler och magiregler granskades: ändringarna gäller ursprungshänvisningar och introduktioner. Handlingsregler, siffervärden, begränsningar och räkneexempel är oförändrade. Snabbstart och rollformulär är oförändrade.
+- Äventyrets ursprungsnotis finns nu i världsunderlaget och dess provspelningsfrågor i planen nedan. Äventyrets spelbara situationer och rollpersoner är oförändrade.
+- Git-kontroll av ändringarnas blanksteg passerade. Licens-, bidrags- och erkännandefiler är oförändrade.
+
+Detta är dokumentkontroller och redaktionell granskning, inte mänsklig provspelning eller historisk expertgranskning.
 
 ## Provspelningsplan
 
 ### Första testet: lärande och handlingsutrymme
 
 Spela startsituationen med 2–4 deltagare, helst minst en utan Fate-erfarenhet. Ge först bara snabbstart och rollformulär. Låt deltagarna förklara mål, slag och aspektanvändning med egna ord. Mät tid och anteckna missförstånd utan att rätta texten mitt i första genomläsningen.
+
+Efter startäventyret: be varje spelare beskriva ett betydelsefullt val och en regel som behövde förklaras igen. Anteckna särskilt om Siv kunde göra allt själv, om Livs och Tors bidrag gjorde verklig skillnad och om ritualens omfattning var begriplig före slaget. Detta är planerad utvärdering, inte genomförd provspelning.
 
 Pröva räddningsscenen, en förhandling och en möjlig ritual. Alla behöver få möjlighet att bidra, även om de väljer en annan lösning än de föreslagna. Notera vem som tog initiativ, vad som ändrade situationen och om en specialförmåga gjorde en annan persons färdighet överflödig.
 
@@ -63,4 +79,4 @@ Spara datum, deltagarantal, använd regelrevision, faktiska händelser och delta
 
 ## Leveransstatus
 
-Speltext, kulturunderlag, modellprövning och alternativa lösningar är framtagna som ett sammanhängande lokalt utkast på grenen `fornvyr-regler-och-magi`. Permanent acceptans av arbetsformer, slutlig kanon och publicering är inte registrerade. Ingen mänsklig provspelning eller historisk expertgranskning är genomförd.
+Grundutkastet har publicerats som [PR #1](https://github.com/matslil/fornvyr/pull/1), från grenen `fornvyr-regler-och-magi`. Därefter skapades grenen `fornvyr-kunskap-och-spelvarld` för användarens separata uppdatering: forskning och referenser i knowledge, direkt världs- och regeltext i story. Publicering av en PR innebär inte att materialet har slagits samman eller mänskligt sakgranskats. Ingen mänsklig provspelning eller historisk expertgranskning är genomförd.

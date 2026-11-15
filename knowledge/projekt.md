@@ -11,6 +11,8 @@
 - Svensk Fate Condensed och dess länkade engelska motsvarighet ska granskas.
 - Magi ska kunna omfatta gudomlig kraft, mirakel, ritualer, besvärjelser, fenomen, andar, runor, alkemi och andra världar.
 - Livskraft, fysisk form och magisk väv är en idé att pröva, inte ett redan beslutat universellt facit.
+- Efter publiceringen av grundutkastets PR ska forskningsunderlag och referenser samlas i `knowledge/`, med tydlig redovisning av vad som är historiskt förankrat. Världs- och regeltexten ska sakna sådana referenser. Allt som anges där gäller inom Mundor, oavsett om ursprunget är historiskt eller skapat för världen.
+- Uppdelningen ska levereras i en andra PR, efter grundutkastets PR.
 
 ## Arbetsantaganden för version 0.1
 
@@ -26,10 +28,11 @@ Kulturförteckningen söker global bredd och redovisar källornas begränsningar
 | --- | --- | --- |
 | Processer | [Arbetsformer](../arbetsformer.md), skilda domäningångar | WoW-jämförelse, tydlig förslagsstatus |
 | Anpassade och pedagogiska regler | [Grundregler](../story/regler/grundregler.md), [snabbstart](../story/regler/snabbstart.md), formulär | Regel- och räkneexempel; faktisk nybörjarprovspelning återstår |
-| Kulturvis översikt | [Kulturer](../story/varld/kulturer.md), [källor](kallor.md) | Dateringar och belägg skilda från fiktion |
+| Kulturvis översikt | [Kulturer](../story/varld/kulturer.md), [kulturunderlag](kulturunderlag.md), [källor](kallor.md) | Numrerade kulturavsnitt kopplar speltext till belägg och världsval |
+| Referensfri speltext | [Mundor](../story/varld/mundor.md), regler och [världsunderlag](varldsunderlag.md) | Forskningsreferenser i knowledge; företeelserna gäller som sanna i speltexten |
 | Prövning av tregrunden | [Magins grund](magins-grund.md) | Fenomenmatris, motexempel och alternativ |
 | Användbar magi | [Magiregler](../story/regler/magi.md), [startäventyr](../story/aventyr/klockan-under-vadstallet.md) | Deklaration, kostnad, motstånd, utfall och samarbete |
 
 ## Beslut och kvarvarande osäkerhet
 
-Ingen ny permanent process eller ny metafysik har ännu registrerats som accepterad av användaren. Alla huvudförslag går ändå att provspela tillsammans. Prioriterade designfrågor är om livskraft ska vara en självständig substans, hur långt mirakel ska kunna överskrida vanlig magi och hur vanlig verksam magi ska vara i samhället. [Alternativjämförelsen](magins-grund.md) ger konkreta val, och [granskningen](granskning.md) beskriver vad provspelningen behöver avgöra.
+Användarens presentationsbeslut ovan är fastställt för denna uppdatering. Övriga processförslag och den valda metafysikens slutliga utformning är fortfarande under utveckling. Att speltexten anger vad som är sant i Mundor är en annan fråga än slutgodkännande av en bokutgåva. Alla huvudförslag går ändå att provspela tillsammans. Prioriterade designfrågor är om livskraft ska vara en självständig substans, hur långt mirakel ska kunna överskrida vanlig magi och hur vanlig verksam magi ska vara i samhället. [Alternativjämförelsen](magins-grund.md) ger konkreta val, och [granskningen](granskning.md) beskriver vad provspelningen behöver avgöra.

@@ -2,15 +2,15 @@
 
 I Mundor kan ett löfte binda en människa, en relik bära en närvaro och en skog svara den som tilltalar den rätt. Väsen och gudomliga krafter finns. Människor odlar ändå åkrar, behöver mat, grälar om arv och fruktar att bli ensamma. Det övernaturliga gör deras relationer mer betydelsefulla.
 
-Startåret 1280 och den medeltida inspirationen kommer från Fornvyrs grundidé. Utformningen nedan är ett förslag till hur den kan användas i spel.
+En ny kampanj börjar normalt år 1280. Från den stunden formar gruppens handlingar världens fortsatta historia.
 
 ## Världens bilder
 
-Mundors kartor kan visa heliga centrum, minnesvärda resor, farliga randland och närheten mellan jordiska platser och andra världar. Förebilden behöver inte vara en exakt projektion av jorden. Herefordkartan, daterad till omkring 1300, beskriver enligt katedralens presentation både geografi och en andlig världsbild. Den är en närliggande inspirationskälla, inte en karta från exakt 1280 eller hela medeltidens gemensamma uppfattning. [Hereford Cathedral](https://www.herefordcathedral.org/mappa-mundi).
+Mundors kartor visar heliga centrum, minnesvärda resor, farliga randland och närheten mellan jordiska platser och andra världar. En plats kan vara viktig både för vägen dit och för de förbindelser som möts där.
 
-**Förslag:** världskartan är en mappa mundi med öster uppåt och heliga platser som framträdande orienteringspunkter. Lokala kartor kan visa praktiska vägar och segelleder. Avstånd för en vanlig resa är stabila; en passage till en annan värld kan följa löften, tidpunkter eller platsers samband. En port flyttar inte godtyckligt på sig bara för att spelledaren vill fördröja gruppen.
+Den västeuropeiska världskartan har öster uppåt och heliga platser som framträdande orienteringspunkter. Lokala kartor kan visa praktiska vägar och segelleder. Avstånd för en vanlig resa är stabila; en passage till en annan värld kan följa löften, tidpunkter eller platsers samband. En port flyttar inte godtyckligt på sig bara för att spelledaren vill fördröja gruppen.
 
-Detta kräver inte en platt jord eller att alla personer delar samma karta. En sjöfarare, en teolog och en bonde kan ha olika användbara kunskaper. Vilken kosmisk form Mundor ytterst har lämnas öppen tills den behövs i spel.
+Olika samhällen ritar olika kartor. En sjöfarare, en teolog och en bonde kan ha olika användbara kunskaper. Kartornas bild av världen och kosmos yttersta form är skilda frågor som de lärda tvistar om.
 
 ## Verkliga under och osäkra förklaringar
 
@@ -22,13 +22,13 @@ Tre nivåer hålls isär:
 - **Vad någon tror:** prästen kallar rösten ett helgon; färjkarlen tror att det är hans döda syster.
 - **Vad som är bestämt för äventyret:** rösten kommer från en personlighet som minns en begravd ed. Spelledaren kan veta detta eller låta gruppen fastställa svaret genom fortsatt spel.
 
-Förslaget undviker att göra alla religioner till namn på samma gud. Det fastslår inte heller flera logiskt oförenliga ensamrätter till världens skapelse. Gudarna och deras ingripanden kan vara verkliga medan de yttersta förklaringarna är omstridda. En grupp som vill spela med en bestämd kosmologi kan välja den före kampanjen; [alternativen](../../knowledge/magins-grund.md) beskriver följderna.
+Gudarna har egna viljor, relationer och sätt att ingripa. Människor tvistar om deras yttersta natur och världens skapelse. Ett verkligt under avgör inte varje lärostrid om dess ursprung.
 
-Ingen grupps fördomar om ett annat folk blir världsregel bara för att fördomen är gammal. Den medeltida kartans märkliga folk kan inspirera självständiga fantasyväsen; verkliga folk får inte förvandlas till monster därför att en fientlig krönikör beskrev dem så.
+Människors fördomar ger ingen säker kunskap om främmande folk. Varje samhälle har egna mål, minnen och konflikter. En resenär kan möta både människor och främmande väsen utan att känna deras natur på förhand.
 
 ## Magi i vardagen
 
-Rekommenderad grundnivå: berättelser, böner, skyddsmärken och heliga platser är vanliga; pålitliga utövare med tydliga krafter är ovanliga men kända; byomvälvande under är händelser som människor minns. Detta är ett val för Mundor, ingen statistik över historien.
+Berättelser, böner, skyddsmärken och heliga platser är vanliga. Pålitliga utövare med tydliga krafter är ovanliga men kända. Under som förändrar en hel by är händelser som människor minns.
 
 Magi ersätter därför inte all sjöfart, jordbruk eller läkekonst. En port kräver en ovanlig väg och dess väktares villkor. Läkande behöver tid och vård. Alkemi kräver råvaror och kunskap. Ett tempel kan ha en fungerande tradition utan att varje bön ger samma resultat eller varje präst är en spelmekanisk magiker.
 
@@ -36,9 +36,9 @@ Samtidigt måste tillförlitlig magi lämna spår i samhället. Ett verkligt sky
 
 ## En värld större än utgångskartan
 
-Västeuropeiska föreställningar ger kartans första bildspråk, men människor i andra delar av Mundor har sina egna traditioner, samhällen och kunskaper. [Kulturöversikten](kulturer.md) börjar därför i Europa och fortsätter genom Afrika, Asien, Amerika och Oceanien.
+Den västeuropeiska kartan visar världen ur ett av många perspektiv. Människor i andra delar av Mundor har sina egna traditioner, samhällen och kunskaper. [Kulturöversikten](kulturer.md) börjar därför i Europa och fortsätter genom Afrika, Asien, Amerika och Oceanien.
 
-Amerika, Australien och Stillahavsregionerna behöver inte finnas på en europeiskt inspirerad karta för att finnas i världen. Om gruppen reser dit ska platsens invånare ha egna mål och perspektiv. Västerländska resenärers berättelser är inte ett neutralt facit.
+Amerika, Australien och Stillahavsregionerna finns bortom de västeuropeiska kartornas kända färdvägar. Om gruppen reser dit ska platsens invånare ha egna mål och perspektiv. Västerländska resenärers berättelser är inte ett neutralt facit.
 
 ## Historien efter första spelmötet
 
