@@ -1,6 +1,6 @@
 # Klockan under vadstället
 
-Ett startäventyr för Fornvyr 0.1, avsett för ett spelmöte. Vadstället, personerna och traditionerna är påhittade för Mundor. Använd [grundreglerna](../regler/grundregler.md) och [magireglerna](../regler/magi.md). Äventyret prövar räddning, samarbete, kontakt med ett väsen och ett möjligt ritualprojekt.
+Ett startäventyr för Fornvyr 0.1, avsett för ett spelmöte. Använd [grundreglerna](../regler/grundregler.md) och [magireglerna](../regler/magi.md). Äventyret handlar om räddning, samarbete och kontakt med ett väsen. En ritual är en av flera vägar framåt.
 
 ## Läs upp
 
@@ -101,6 +101,4 @@ Stress: kropp 4, själ 4. Utrustning: läkarväska, skrivdon, brev och klostrets
 
 ## Efter spelet
 
-Skriv vad gruppen ändrade och vem som nu har ansvar för färjan. Be varje spelare beskriva ett val som kändes betydelsefullt och en regel som behövde förklaras igen. Anteckna särskilt om Siv kunde göra allt själv, om Livs och Tors bidrag gjorde verklig skillnad och om ritualens omfattning var begriplig innan slaget.
-
-Utvärderingen är en del av [provspelningsplanen](../../knowledge/granskning.md), inte ett påstående om att äventyret redan har provspelats.
+Skriv vad gruppen ändrade och vem som nu har ansvar för färjan. Vem behöver deras hjälp efter överfarten? Vilka löften har de själva gett? Låt svaren bli utgångspunkt för nästa spelmöte.

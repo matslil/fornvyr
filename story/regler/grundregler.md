@@ -2,7 +2,7 @@
 
 Fornvyr handlar om vad gruppen väljer att göra och hur världen svarar. Spelarna bestämmer sina rollpersoners avsikter och handlingar. Spelledaren spelar omvärlden och dess personer, beskriver hinder och visar följderna. Alla får föreslå detaljer. Det är tillåtet att överraska varandra; ingen behöver följa en färdig berättelse.
 
-Detta är version 0.1. [Snabbstarten](snabbstart.md) lär ut det första slaget. [Magireglerna](magi.md) använder samma grundregler. Regelursprung och skillnader från Fate finns i [designunderlaget](../../knowledge/designval.md) och [erkännandena](../../ERKANNANDEN.md).
+Detta är version 0.1. [Snabbstarten](snabbstart.md) lär ut det första slaget. [Magireglerna](magi.md) använder samma grundregler.
 
 ## Förbered ett spel
 
@@ -156,7 +156,7 @@ Om du betalar för att använda en motståndares personliga aspekt mot hen får 
 
 **Acceptera en komplikation:** någon föreslår hur en aspekt orsakar ett verkligt problem. Om du accepterar får du 1 ödespoäng. Exempel: **Skyldig fogden en tjänst** gör att fogden kräver eskort just när du behöver resa åt andra hållet. Förslaget måste innehålla ett problem, inte bara gestalta din personlighet.
 
-I Fornvyr får du avböja erbjudna komplikationer utan kostnad. Försök hitta ett annat problem som du vill spela på. Detta är ett avsiktligt avsteg från Fate. Redan etablerade faror och misslyckade slag kan däremot inte avböjas genom denna regel. Samma problem betalar bara ut poäng en gång; att upprepa ett ofarligt ritualbrott ger ingen poängmotor.
+I Fornvyr får du avböja erbjudna komplikationer utan kostnad. Försök hitta ett annat problem som du vill spela på. Redan etablerade faror och misslyckade slag kan däremot inte avböjas genom denna regel. Samma problem betalar bara ut poäng en gång; att upprepa ett ofarligt ritualbrott ger ingen poängmotor.
 
 **Lägg till en detalj:** föreslå en rimlig, ännu obestämd detalj kopplad till en aspekt. Med gruppens samtycke kan 1 ödespoäng etablera exempelvis att en gammal lärare finns i staden. Betala först när förslaget godkänts. Det får inte upphäva en fastslagen händelse, köpa framgång i ett pågående slag eller bestämma en annan rollpersons vilja. Självklara detaljer behöver ingen betalning.
 

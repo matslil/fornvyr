@@ -2,13 +2,13 @@
 
 Magi låter dig försöka göra något som annars vore omöjligt. Den använder samma fyra handlingar, tärningar, aspekter och konsekvenser som [grundreglerna](grundregler.md). Du behöver kunna din egen tradition och dina egna förmågor, inte lära dig en katalog över alla världens besvärjelser.
 
-Version 0.1 rekommenderar **tre grundfundament, avgränsade förmågor och ritualer för stora förändringar**. Det är ett förslag för Mundor. Historiska traditioner behöver inte själva förklara sina handlingar med dessa begrepp. [Magins grund](../../knowledge/magins-grund.md) förklarar modellen och jämför alternativ.
+Magin bygger på **tre grundfundament, avgränsade förmågor och ritualer för stora förändringar**. Mundors traditioner har egna namn och förklaringar till de krafter som de möter.
 
 ## Tre saker att förstå
 
 **Fysisk form** är det kroppsliga: sten, vatten, luft, metall och kött. Det behöver inte vara fast eller stelt.
 
-**Livskraft** gör att något kan erfara, sträva och svara med egen vilja. Livskraft är inte en mätare för hur svårt skadad du är och inte ett bevis för en viss religions själslära.
+**Livskraft** gör att något kan erfara, sträva och svara med egen vilja. Livskraft är inte en mätare för hur svårt skadad du är. Traditionerna har olika läror om själar och vad som händer efter döden.
 
 **Magisk väv** gör förändringar och förbindelser möjliga: en kropp kan hållas samman med livskraft, en röst kan nå en ande och en runa kan bära ett skydd. Vanlig eld är ett förlopp i väven; veden, röken och askan har fysisk form. En eld som själv vill något har också livskraft.
 
@@ -86,7 +86,7 @@ En lyckad handling ger vad som avtalats. Spelledaren får inte efteråt förklar
 
 ## Det som blir kvar
 
-En upprätthållen effekt behöver ett **ankare**: en runristning, ett ljus, ett föremål, en plats eller en person. Skriv effekt, varaktighet och brytvillkor. Samma magiker får ha högst två upprätthållna effekter samtidigt; en ny kräver att en gammal släpps. Detta är en spelbegränsning, inte en historisk uppgift.
+En upprätthållen effekt behöver ett **ankare**: en runristning, ett ljus, ett föremål, en plats eller en person. Skriv effekt, varaktighet och brytvillkor. Samma magiker får ha högst två upprätthållna effekter samtidigt; en ny kräver att en gammal släpps.
 
 Att effekten upphör återställer inte vanliga följder. Ett tänt hus kan fortsätta brinna. Ett borttaget hinder kan förbli borta. Däremot behöver en svävande sten fortsatt väv, liksom en skyddsruna eller en port. Ett förtrollat svärd är ett bestående ankare och kräver stor magi om förtrollningen ska bestå utan underhåll.
 
@@ -96,7 +96,7 @@ Preparat som skapas utan risk ger högst ett förberett fritt användande per fa
 
 ## Förmågor att börja med
 
-Alla exempel nedan är **Fornvyrs konstruktioner**. Sankt Edvin och de namngivna ordnarna är påhittade. De är inte historiska recept eller påståenden om vad alla utövare i en verklig kultur gjorde.
+Här finns förmågor för flera traditioner. Välj dem som hör till din rollpersons invigning och kunnande.
 
 | Förmåga | Vad du får göra | Medel och gräns |
 | --- | --- | --- |

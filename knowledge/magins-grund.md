@@ -50,7 +50,7 @@ Detta är Mundors metafysik, inte en vetenskaplig beskrivning av verklig förbr�
 
 ## Prövning mot fenomenen
 
-Alla modellförklaringar i tabellen är fiktion, även när fenomenet inspirerats av historiska föreställningar. Kulturunderlaget finns i [kulturöversikten](../story/varld/kulturer.md).
+Alla modellförklaringar i tabellen är fiktion, även när fenomenet inspirerats av historiska föreställningar. Kulturunderlaget finns i [kulturunderlaget](kulturunderlag.md).
 
 | Fenomen | Förklaring med tregrunden | Hur det spelas | Bedömning |
 | --- | --- | --- | --- |

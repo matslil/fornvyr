@@ -5,7 +5,7 @@ Detta är en anpassning av [WoW](https://github.com/matslil/wow) till Fornvyr, f
 ## Gemensam arbetsgång
 
 1. **Avgränsa resultatet.** Ange vem som ska använda det, vilket problem det löser och vad som ska kunna kontrolleras. Läs befintligt material först.
-2. **Samla relevant kunskap.** Spara källor, dateringar, osäkerheter och beroenden nära ämnet. Skilj användarbeslut från agentens antaganden.
+2. **Samla relevant kunskap.** Spara källor, dateringar, osäkerheter och beroenden ämnesvis i `knowledge/`. Skilj användarbeslut från agentens antaganden.
 3. **Skapa ett sammanhängande förslag.** Regler får exempel; världsdetaljer får användning i spel; verktyg får avgränsade in- och utdata.
 4. **Granska mot avsikten.** Kontrollera motsägelser, beräkningar, länkar, språk, källstöd och ursprung. Prova regler som faktiska händelseförlopp, inklusive misslyckanden.
 5. **Lämna för mänsklig bedömning.** Sammanfatta vad som ändrats, vad kontrollerna visar och vad som kräver provspelning. Ändrade arbetsregler blir bestående först efter uttryckligt accepterande av den granskade revisionen.
@@ -14,9 +14,11 @@ Projektansvarig är användaren. AI får ta fram och revidera underlag inom uppd
 
 ## Berättelsespåret
 
-Regler är en del av rollspelsverket och hör hemma i `story/`. Källor och designresonemang hör hemma i `knowledge/`; läsaren ska inte behöva läsa dem för att kunna spela.
+Regler är en del av rollspelsverket och hör hemma i `story/`. **Användarbeslut:** historiskt forskningsunderlag, referenser, dateringar och designresonemang hör hemma i `knowledge/`. Där ska det framgå vilka delar av speltexten som har forskningsstöd och vilka som är världsval. Själva världs- och regeltexten ska vara utan sådana referenser och ursprungsmarkeringar. Det som står där gäller som sant i Mundor, oavsett om det är historiskt förankrat eller skapat för en sammanhängande värld. Uttalanden som tillskrivs personer kan fortfarande återge deras tro, misstag och hemligheter.
 
-För varje regeländring granskas minst ett normalt fall, ett gränsfall och dess inverkan på andra spelares handlingsutrymme. För äventyr granskas aktörernas motiv, tillgängliga ledtrådar, alternativa lösningar och följder av att gruppen avstår. För världsmaterial granskas tid, plats, källperspektiv och skillnaden mellan belagt och påhittat.
+Denna uppdelning är uttryckligen beställd av användaren och gäller redan för arbetet. Den innebär inte att övriga processförslag eller varje designval har slutgodkänts. Licensuppgifter och erkännanden behålls separat på projektnivå.
+
+För varje regeländring granskas minst ett normalt fall, ett gränsfall och dess inverkan på andra spelares handlingsutrymme. För äventyr granskas aktörernas motiv, tillgängliga ledtrådar, alternativa lösningar och följder av att gruppen avstår. För världsmaterial granskas sammanhang och följder i Mundor. I tillhörande kunskapsunderlag granskas tid, plats, källperspektiv och skillnaden mellan belagt och påhittat.
 
 Pedagogisk ordning för regler: syfte → gör så här → kort exempel → undantag. Använd samma term för samma sak. Introducera högst den regelmängd som behövs för nästa spelmoment.
 
@@ -32,7 +34,7 @@ WoW:s livscykel och mänskliga beslutspunkter används i proportion till verktyg
 
 ## Leveranser och förvaltning
 
-Föreslagen Git-rutin: avgränsad gren, sammanhängande kontrollerade commits och en PR per självständigt beställt resultat; uttryckliga beroenden mellan PR:er. Denna första leverans förbereds lokalt för granskning. Ingen WoW-regel behandlas som ett automatiskt uppdrag att publicera eller slå samman material.
+Föreslagen Git-rutin: avgränsad gren, sammanhängande kontrollerade commits och en PR per självständigt beställt resultat; uttryckliga beroenden mellan PR:er. Användaren har beställt en PR för grundutkastet och därefter en separat PR för uppdelningen mellan forskningsunderlag och speltext. Ingen WoW-regel behandlas som ett automatiskt uppdrag att publicera eller slå samman material.
 
 En ändring av arbetsformer ska ange gammal regel, konkret problem, föreslagen ny regel och accepterande person/revision. Kunskapsuppdateringar kräver en begriplig sammanfattning, inte en extra generell tillståndsprocess.
 

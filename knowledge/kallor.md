@@ -1,6 +1,6 @@
 # Källor och avgränsningar
 
-Underlaget sammanställdes 2026-11-15. Länkarna vid sakuppgifterna i [kulturöversikten](../story/varld/kulturer.md) är den närmaste hänvisningen. Denna förteckning visar vad källorna används till och var deras stöd tar slut.
+Underlaget sammanställdes 2026-11-15. Länkarna vid sakuppgifterna i [kulturunderlaget](kulturunderlag.md) är den närmaste hänvisningen. Denna förteckning visar vad källorna används till och var deras stöd tar slut. [Världsunderlaget](varldsunderlag.md) kopplar även kartbild, metafysik, regler och äventyr till deras ursprung.
 
 ## Projekt- och regelkällor
 
