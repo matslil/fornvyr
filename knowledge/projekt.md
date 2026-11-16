@@ -15,6 +15,7 @@
 - Uppdelningen ska levereras i en andra PR, efter grundutkastets PR.
 - Återkoppling 2026-11-16: de två PR:erna är mergade. Processanpassningen ska vara åtkomlig som skills och dokumentera både WoW-anpassningen och hur forskningsuppdelningen tillämpas.
 - Rollpersonsskapandet ska innehålla en process inspirerad av Fate där spelarna skriver historiesegment och byter dem mellan varandra.
+- Efter merge av PR #5: förteckna samtalsdugliga väsen som kan behöva egna språk, undersök befintliga skapade språk och föreslå parningar utifrån språkens och väsendenas karaktär. Språkens ursprungliga genre behöver inte överföras till Mundor.
 
 ## Arbetsantaganden för version 0.1
 
@@ -31,6 +32,7 @@ Kulturförteckningen söker global bredd och redovisar källornas begränsningar
 | Processer | [Skills](../skills/README.md), [WoW-anpassning](../skills/anpassning.md), skilda story- och engineering-skills | Upptäckt via AGENTS, dokumenterade avsteg och [processgranskning](processgranskning.md) |
 | Anpassade och pedagogiska regler | [Grundregler](../story/regler/grundregler.md), [snabbstart](../story/regler/snabbstart.md), formulär | Regel- och räkneexempel; faktisk nybörjarprovspelning återstår |
 | Gemensamt rollpersonsskapande | [Bakgrundsprocess](../story/regler/gemensam-bakgrund.md), [historiekort](../story/regler/historiekort.md) | [Källjämförelse och genomgång](gemensam-bakgrund.md) av aspektägande, spelarantal och medgivande |
+| Väsen och skapade språk | [Förteckning och matchningar](vasen-och-sprak.md) | Källstödda egenskaper skiljs från föreslagna språkval; ingen ny språkkanon införd i speltexten |
 | Kulturvis översikt | [Kulturer](../story/varld/kulturer.md), [kulturunderlag](kulturunderlag.md), [källor](kallor.md) | Numrerade kulturavsnitt kopplar speltext till belägg och världsval |
 | Referensfri speltext | [Mundor](../story/varld/mundor.md), regler och [världsunderlag](varldsunderlag.md) | Forskningsreferenser i knowledge; företeelserna gäller som sanna i speltexten |
 | Prövning av tregrunden | [Magins grund](magins-grund.md) | Fenomenmatris, motexempel och alternativ |

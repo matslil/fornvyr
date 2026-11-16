@@ -54,6 +54,8 @@ Källorna har lästs som relevanta webbsidor, katalogposter eller återgivna ind
 
 ## Prioriterade fördjupningar
 
+Kompletteringen [Väsen och språk](vasen-och-sprak.md), sammanställd 2026-11-16, innehåller sin egen källredovisning för samtalsdugliga väsen och 17 skapade språk eller varianter. Den anger lästa delar, dateringsgränser, skillnaden mellan originalmaterial och senare utbyggnad samt vilka matchningar som är designförslag.
+
 Nästa historiska fördjupning bör väljas efter den region som faktiskt ska bli kampanjmiljö. Sök då tidsnära text eller arkeologi, en kritisk forskningsutgåva och en källa med lokalt perspektiv. Kontrollera vilka som beskrev praktiken och i vilket syfte. För mer glest dokumenterade områden behövs särskilt tydlig uppdelning mellan rekonstruerad möjlighet och daterat belägg.
 
 Enhetlig metafysik är Fornvyrs designsyntes. Ingen källa ovan hävdar att alla kulturer delade tregrunden, och spelens funktionsregler ska inte användas som bevis för det.
