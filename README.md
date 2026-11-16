@@ -7,7 +7,7 @@ Fornvyr är ett svenskt bordsrollspel om människor som tillsammans förändrar 
 ## Börja spela
 
 1. Läs [snabbstarten](story/regler/snabbstart.md) för att förstå hur ett tärningsslag och ett gemensamt beslut fungerar.
-2. Skapa grupp och rollpersoner med [grundreglerna](story/regler/grundregler.md) och [rollformuläret](story/regler/rollformular.md).
+2. Skapa grupp och rollpersoner med [grundreglerna](story/regler/grundregler.md), [gemensamma historiesegment](story/regler/gemensam-bakgrund.md) och [rollformuläret](story/regler/rollformular.md). Använd [historiekort](story/regler/historiekort.md) för det ni skickar mellan er.
 3. Välj en tradition och två förmågor om du vill använda [magi](story/regler/magi.md).
 4. Spela [Klockan under vadstället](story/aventyr/klockan-under-vadstallet.md), en kort startsituation med flera möjliga lösningar.
 

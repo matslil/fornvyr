@@ -10,6 +10,10 @@ Erkännandet följer den aktuella [officiella licenssidan](https://fate-srd.com/
 
 This work is based on Fate Condensed (found at http://www.faterpg.com/), a product of Evil Hat Productions, LLC, developed, authored, and edited by PK Sullivan, Ed Turner, Leonard Balsera, Fred Hicks, Richard Bellingham, Robert Hanz, Ryan Macklin, and Sophie Lagacé, and licensed for our use under the Creative Commons Attribution 3.0 Unported license (http://creativecommons.org/licenses/by/3.0/).
 
+Processen för gemensam rollpersonsbakgrund är dessutom en bearbetning av [Fate Core: The Phase Trio](https://fate-srd.com/fate-core/phase-trio). Fornvyr har egna svenska formuleringar, exempel och en koppling till sina aspektplatser. Källjämförelse och ändringar redovisas i [underlaget](knowledge/gemensam-bakgrund.md). För Core-materialet används licenssidans gemensamma erkännande:
+
+This work is based on Fate Core System and Fate Accelerated Edition (found at https://www.faterpg.com/), products of Evil Hat Productions, LLC, developed, authored, and edited by Leonard Balsera, Brian Engard, Jeremy Keller, Ryan Macklin, Mike Olson, Clark Valentine, Amanda Valentine, Fred Hicks, and Rob Donoghue, and licensed for our use under the [Creative Commons Attribution 3.0 Unported license](https://creativecommons.org/licenses/by/3.0/).
+
 Inga Fate-logotyper, typsnitt eller illustrationer har importerats.
 
 Mats Lils [svenska översättning](https://github.com/matslil/fate-condensed-svenska) har varit terminologiskt och innehållsligt jämförelseunderlag. Dess egen README anger att den kan vara ofullständig och felaktig. Fornvyr återanvänder inte längre ordagranna avsnitt ur översättningen eller dess separat skrivna magikapitel. Skillnader och utvecklade idéer redovisas i [designval](knowledge/designval.md).

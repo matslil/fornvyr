@@ -11,6 +11,8 @@ Underlaget sammanställdes 2026-11-15. Länkarna vid sakuppgifterna i [kulturund
 | [Svenska Fate Condensed](https://github.com/matslil/fate-condensed-svenska) | README, index, grundregelavsnitt och hela `docs/magi.rst` | Terminologi, befintliga idéer och jämförelse; inte ensam norm för originalreglerna |
 | [Engelska Fate Condensed CC-SRD](https://github.com/fate-srd/fate-srd-content/blob/main/docs/markdown/Fate-Condensed-SRD-CC-BY.md) | Handlingar, rollperson, aspekter, stress, återhämtning, utveckling; kompletterande webbsidor | Regelgrund och kontroll av betydande översättningsskillnader |
 | [Fate-licensiering](https://fate-srd.com/official-licensing-fate/cc) | Erkännande och användning av CC-SRD | [Erkännanden](../ERKANNANDEN.md); projektets befintliga licens har inte ersatts |
+| [Fate Core: The Phase Trio](https://fate-srd.com/fate-core/phase-trio), granskad 2026-11-16 | Eget äventyr, två gästspel och färre än tre spelare | [Gemensam bakgrund](gemensam-bakgrund.md); bearbetad till Fornvyrs aspektplatser |
+| [Fate Condensed: Getting Started](https://fate-srd.com/fate-condensed/getting-started), granskad 2026-11-16 | Aspects | Jämförelse av aspektplatser, separat från Core-proceduren |
 
 ## Historiskt underlag
 

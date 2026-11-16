@@ -14,6 +14,7 @@
 - Efter publiceringen av grundutkastets PR ska forskningsunderlag och referenser samlas i `knowledge/`, med tydlig redovisning av vad som är historiskt förankrat. Världs- och regeltexten ska sakna sådana referenser. Allt som anges där gäller inom Mundor, oavsett om ursprunget är historiskt eller skapat för världen.
 - Uppdelningen ska levereras i en andra PR, efter grundutkastets PR.
 - Återkoppling 2026-11-16: de två PR:erna är mergade. Processanpassningen ska vara åtkomlig som skills och dokumentera både WoW-anpassningen och hur forskningsuppdelningen tillämpas.
+- Rollpersonsskapandet ska innehålla en process inspirerad av Fate där spelarna skriver historiesegment och byter dem mellan varandra.
 
 ## Arbetsantaganden för version 0.1
 
@@ -29,6 +30,7 @@ Kulturförteckningen söker global bredd och redovisar källornas begränsningar
 | --- | --- | --- |
 | Processer | [Skills](../skills/README.md), [WoW-anpassning](../skills/anpassning.md), skilda story- och engineering-skills | Upptäckt via AGENTS, dokumenterade avsteg och [processgranskning](processgranskning.md) |
 | Anpassade och pedagogiska regler | [Grundregler](../story/regler/grundregler.md), [snabbstart](../story/regler/snabbstart.md), formulär | Regel- och räkneexempel; faktisk nybörjarprovspelning återstår |
+| Gemensamt rollpersonsskapande | [Bakgrundsprocess](../story/regler/gemensam-bakgrund.md), [historiekort](../story/regler/historiekort.md) | [Källjämförelse och genomgång](gemensam-bakgrund.md) av aspektägande, spelarantal och medgivande |
 | Kulturvis översikt | [Kulturer](../story/varld/kulturer.md), [kulturunderlag](kulturunderlag.md), [källor](kallor.md) | Numrerade kulturavsnitt kopplar speltext till belägg och världsval |
 | Referensfri speltext | [Mundor](../story/varld/mundor.md), regler och [världsunderlag](varldsunderlag.md) | Forskningsreferenser i knowledge; företeelserna gäller som sanna i speltexten |
 | Prövning av tregrunden | [Magins grund](magins-grund.md) | Fenomenmatris, motexempel och alternativ |

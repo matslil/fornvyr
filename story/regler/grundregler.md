@@ -10,7 +10,7 @@ Ni behöver papper, pennor, marker för ödespoäng och fyra ödestärningar. Va
 
 Välj tillsammans en plats i Mundor och ett problem som berör alla rollpersonerna. Säg vilken sorts faror ni vill möta och vad ni vill lämna utanför spelet. Vem som helst får pausa och begära att innehåll ändras utan att betala spelresurser. Bestäm särskilt om död, tvång och förlust av rollpersonens kontroll kan förekomma.
 
-Skriv tre gemensamma **gruppaspekter**:
+Skriv ett första förslag till tre gemensamma **gruppaspekter**. Ni kan justera dem när rollpersonernas gemensamma bakgrund har vuxit fram:
 
 - Ett band: varför ni håller ihop, exempelvis **Vi svor att föra pilgrimerna hem**.
 - Ett hem eller en gemenskap: vad ni kan få hjälp av och vad ni kan förlora.
@@ -22,7 +22,7 @@ En aspekt är en kort, sann och betydelsefull beskrivning. Gruppaspekterna funge
 
 ### Beskriv vem du är
 
-Skriv namn, hemort, språk och fem aspekter:
+Skriv namn, hemort och språk. Du har fem personliga aspektplatser:
 
 1. **Grundidé:** yrke, ställning eller särskild identitet.
 2. **Bekymmer:** något som gör livet svårt och som du vill spela på.
@@ -31,6 +31,12 @@ Skriv namn, hemort, språk och fem aspekter:
 5. **Fri aspekt:** något annat viktigt; kan lämnas tomt tills det blir tydligt i spel.
 
 En bra aspekt hjälper ibland och ställer till det ibland. **Klostrets utsända läkekunniga** kan ge tillträde och kunskap men också skyldigheter. **Allsmäktig** passar inte som genväg till obegränsade krafter. Övernaturliga möjligheter avgränsas med [förmågor](magi.md).
+
+### Väv samman era historier
+
+När ni skapar nya rollpersoner tillsammans, börja med grundidé och bekymmer. Följ sedan [Skapa er gemensamma bakgrund](gemensam-bakgrund.md): skriv varsin händelse, byt historiesegment och låt rollpersonerna gästspela hos varandra. Er egen händelse ger förankring, det första gästspelet relation och det andra fri aspekt. Ni behåller era fem aspektplatser.
+
+Kapitlet innehåller ett exempel och en variant för två spelare. Använd gärna [historiekortet](historiekort.md) för det ni skickar runt och behåll [rollformuläret](rollformular.md) hos er själva. Vill ni börja direkt går det också att välja aspekterna ovan utan historiesegment.
 
 ### Välj vad du kan
 

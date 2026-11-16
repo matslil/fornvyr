@@ -13,6 +13,7 @@ Fyra handlingar, aspekter, ödespoäng och följder som förändrar berättelsen
 | Förklaringsordning | Mål, metod, risk, slag, följd; kort räkneexempel tidigt | Nybörjaren får en handlingsmodell innan alla termer introduceras |
 | Aspekter | Samma term genomgående; svenskans ”fakta” förklaras som jämförelse | Tydlig skillnad mellan allmänna fakta om världen och särskilt markerade spelaspekter |
 | Grupp | Band, gemenskap och olöst problem | Gruppens historia blir gemensamt spelmaterial; ingen extra poängekonomi |
+| Rollpersonsbakgrund | Egen händelse och två gästspel som fyller förankring, relation och fri aspekt | Gemensamma minnen och relationer med oförändrat antal aspektplatser; kräver en stunds gemensam förberedelse |
 | Färdigheter | 16 breda färdigheter, bland annat Färdas, Vildmark och Läkekonst | Passar resor och lokala samhällen; Lönndom och Vältalighet blir bredare och behöver följas i provspelning |
 | Magi | Vävkunskap och avgränsade förmågor | Kunskap ensam ger inte allmän övernaturlig tillåtelse |
 | Komplikation | Gratis att avböja erbjudandet | Mer spelarinflytande; kan ge för få ödespoäng om gruppen sällan accepterar problem |
@@ -22,6 +23,10 @@ Fyra handlingar, aspekter, ödespoäng och följder som förändrar berättelsen
 | Magisk omfattning | Tre spelrelevanta storlekar; högsta av grundmotstånd och aktivt försvar | Begriplig gräns, utan två slag för samma effekt |
 | Förluster | Sanna följder men inget automatiskt ägande av en rollpersons inre vilja | Social konflikt och besatthet behöver avtalade insatser |
 | Utveckling | Omfördelning efter möte, en färdighetspoäng vid genombrott | Ingen automatisk eskalation av gudomlig makt; tak +4 tills gruppen ändrar kampanjens nivå |
+
+## Gemensam rollpersonsbakgrund
+
+Fornvyr kompletterar Condensed-grunden med en bearbetning av Fate Cores Phase Trio. [Underlaget för gemensam bakgrund](gemensam-bakgrund.md) anger källa, lokal aspektkoppling, tvåspelarvariant och granskade fall. Den spelbara proceduren finns i [reglerna](../story/regler/gemensam-bakgrund.md).
 
 ## Skillnader i jämförelseunderlagen
 
