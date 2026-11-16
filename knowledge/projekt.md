@@ -13,6 +13,7 @@
 - Livskraft, fysisk form och magisk väv är en idé att pröva, inte ett redan beslutat universellt facit.
 - Efter publiceringen av grundutkastets PR ska forskningsunderlag och referenser samlas i `knowledge/`, med tydlig redovisning av vad som är historiskt förankrat. Världs- och regeltexten ska sakna sådana referenser. Allt som anges där gäller inom Mundor, oavsett om ursprunget är historiskt eller skapat för världen.
 - Uppdelningen ska levereras i en andra PR, efter grundutkastets PR.
+- Återkoppling 2026-11-16: de två PR:erna är mergade. Processanpassningen ska vara åtkomlig som skills och dokumentera både WoW-anpassningen och hur forskningsuppdelningen tillämpas.
 
 ## Arbetsantaganden för version 0.1
 
@@ -26,7 +27,7 @@ Kulturförteckningen söker global bredd och redovisar källornas begränsningar
 
 | Beställd del | Leverans | Kontroll |
 | --- | --- | --- |
-| Processer | [Arbetsformer](../arbetsformer.md), skilda domäningångar | WoW-jämförelse, tydlig förslagsstatus |
+| Processer | [Skills](../skills/README.md), [WoW-anpassning](../skills/anpassning.md), skilda story- och engineering-skills | Upptäckt via AGENTS, dokumenterade avsteg och [processgranskning](processgranskning.md) |
 | Anpassade och pedagogiska regler | [Grundregler](../story/regler/grundregler.md), [snabbstart](../story/regler/snabbstart.md), formulär | Regel- och räkneexempel; faktisk nybörjarprovspelning återstår |
 | Kulturvis översikt | [Kulturer](../story/varld/kulturer.md), [kulturunderlag](kulturunderlag.md), [källor](kallor.md) | Numrerade kulturavsnitt kopplar speltext till belägg och världsval |
 | Referensfri speltext | [Mundor](../story/varld/mundor.md), regler och [världsunderlag](varldsunderlag.md) | Forskningsreferenser i knowledge; företeelserna gäller som sanna i speltexten |
@@ -35,4 +36,4 @@ Kulturförteckningen söker global bredd och redovisar källornas begränsningar
 
 ## Beslut och kvarvarande osäkerhet
 
-Användarens presentationsbeslut ovan är fastställt för denna uppdatering. Övriga processförslag och den valda metafysikens slutliga utformning är fortfarande under utveckling. Att speltexten anger vad som är sant i Mundor är en annan fråga än slutgodkännande av en bokutgåva. Alla huvudförslag går ändå att provspela tillsammans. Prioriterade designfrågor är om livskraft ska vara en självständig substans, hur långt mirakel ska kunna överskrida vanlig magi och hur vanlig verksam magi ska vara i samhället. [Alternativjämförelsen](magins-grund.md) ger konkreta val, och [granskningen](granskning.md) beskriver vad provspelningen behöver avgöra.
+Användarens presentationsbeslut ovan gäller fortsatt och tillämpas genom [den gemensamma skillinstruktionen](../skills/referenser/forskning-och-speltext.md). Processkompletteringens ursprung och status finns i [WoW-anpassningen](../skills/anpassning.md). Den valda metafysikens slutliga utformning är fortfarande under utveckling. Att speltexten anger vad som är sant i Mundor är en annan fråga än slutgodkännande av en bokutgåva. Alla huvudförslag går ändå att provspela tillsammans. Prioriterade designfrågor är om livskraft ska vara en självständig substans, hur långt mirakel ska kunna överskrida vanlig magi och hur vanlig verksam magi ska vara i samhället. [Alternativjämförelsen](magins-grund.md) ger konkreta val, och [granskningen](granskning.md) beskriver vad provspelningen behöver avgöra.
