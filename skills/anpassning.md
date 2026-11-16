@@ -15,7 +15,7 @@ Sökvägarna i första kolumnen avser WoW-revisionen ovan.
 | WoW-underlag | Lokalt hem | Anpassning och skäl |
 | --- | --- | --- |
 | AGENTS.md, skills/README.md, workflows/adopt-existing-project.md | [AGENTS](../AGENTS.md), [skillindex](README.md), [projektdefinition](../knowledge/projekt.md) | Uppdrag väljer ett arbetsflöde; instruktionerna finns i repot och kan läsas utan global skillinstallation. Befintliga dokument återanvänds. |
-| core/authority.md och core/change-workflow.md | [handle-request](handle-request/SKILL.md), [arbetsformer](../arbetsformer.md) | Användarens mandat, avgränsade uppdrag och granskade ändringar behålls. Svar på frågor kräver ingen PR. Redan beställd implementation fortsätter utan upprepade tillståndsfrågor; processförslag granskas i PR. |
+| core/authority.md och core/change-workflow.md | [AGENTS](../AGENTS.md), [handle-request](handle-request/SKILL.md) | Användarens mandat, avgränsade uppdrag och granskade ändringar behålls. Svar på frågor kräver ingen PR. Redan beställd implementation fortsätter utan upprepade tillståndsfrågor; processförslag granskas i PR. |
 | skills/research-knowledge/SKILL.md | [research-knowledge](research-knowledge/SKILL.md) | Källkritik specialiseras för kultur, plats och tid omkring 1280. Tro och praktik skiljs från verklig övernaturlig verkan, som är ett världsval. |
 | skills/verify-output/SKILL.md | [verify-output](verify-output/SKILL.md) | Räkneexempel, begriplighet, alternativa handlingar och kontinuitet ersätter programtester för speltext. Teknisk kontroll kan inte bevisa spelglädje. |
 | skills/run-methodology-retrospective/SKILL.md | [run-methodology-retrospective](run-methodology-retrospective/SKILL.md) | Används vid visad processbrist, exempelvis uteblivna skills. Motivering och följder hålls här; ingen automatisk ändring av WoW eller extern återkoppling. |
@@ -39,6 +39,8 @@ Sökvägarna i första kolumnen avser WoW-revisionen ovan.
 
 **Upptäckt.** Lokala skills nås via AGENTS och skillindexen. Vi påstår inte att mappar med namnet skills automatiskt blir registrerade i alla agentklienter. Här ligger den bestående kopplingen i repositoryts agentinstruktioner.
 
+**Ett hem för varje instruktion.** AGENTS ger ingång, gemensamt mandat och bestående användarkrav. Skills beskriver hur uppgifter utförs; gemensamma detaljinstruktioner ligger i skills/referenser. Detta dokument redovisar ursprung och anpassningsskäl. Den tidigare arbetsformer.md har integrerats i dessa hem och tagits bort eftersom den huvudsakligen upprepade innehållet.
+
 ## Hur beslut om forskningsuppdelning tillämpas
 
 Den operativa regeln finns i [forskningsunderlag och speltext](referenser/forskning-och-speltext.md), så att olika skills inte behöver egna konkurrerande versioner.
@@ -59,6 +61,7 @@ Den operativa regeln finns i [forskningsunderlag och speltext](referenser/forskn
 | Instruktionen inför [PR #2](https://github.com/matslil/fornvyr/pull/2) | Uttryckligt användarbeslut: forskning med referenser i knowledge, sanna företeelser utan sådana hänvisningar i speltexten |
 | Återkoppling 2026-11-16 | Användaren konstaterar saknade skills och efterfrågar spårbar anpassning; kompletteringen fullföljer ursprungsuppdraget |
 | Denna komplettering | Sju lokala skills, index och gemensam presentationsinstruktion. Uppdelningen och processförenklingarna är redovisade lokala implementeringsval; ändringen lämnas i en ny PR för granskning. |
+| Följdfråga om arbetsformer.md | Den separata sammanfattningen tas bort i samma PR. Mandat samlas i AGENTS, leveransinstruktionen i handle-request och övriga arbetsflöden finns redan i respektive skill. |
 
 Vid nästa processändring: ange berörd instruktion, problem, ändring, underlag och status. Registrera uttryckligt accepterande med hänvisning till det faktiska beslutet när det ges; skriv inte en påhittad godkännare eller revision.
 

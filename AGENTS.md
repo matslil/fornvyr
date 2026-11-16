@@ -9,7 +9,9 @@
 3. För värld och äventyr används [develop-story](story/skills/develop-story/SKILL.md); för regler används [develop-rules](story/skills/develop-rules/SKILL.md). För faktiska programverktyg används [develop-tool](engineering/skills/develop-tool/SKILL.md).
 4. Läs bara berört underlag via [knowledge](knowledge/README.md). Granska resultat med [verify-output](skills/verify-output/SKILL.md). Vid processfrågor eller processändringar, läs [WoW-anpassningen](skills/anpassning.md).
 
-Skills läses från repot via dessa länkar; de förutsätter ingen global installation. [Arbetsformer](arbetsformer.md) sammanfattar struktur och mandat. Processändringar ska vara granskningsbara och får inte ge sig själva status som mänskligt godkända.
+Skills läses från repot via dessa länkar; de förutsätter ingen global installation. Deras existens innebär inte ett uppdrag att skapa ytterligare verktyg eller spelmaterial.
+
+Agenter får genomföra beställt arbete och göra rutinmässiga implementeringsval inom uppdraget. Processändringar dokumenteras i berörda skills och lämnas som kontrollerade förslag för mänsklig granskning i PR; de får inte ge sig själva status som mänskligt godkända. Uttryckliga användarbeslut gäller utan upprepad tillståndsfråga.
 
 ## Bestående användarkrav
 

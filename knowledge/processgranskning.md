@@ -29,10 +29,16 @@ Genomgången hittade behovet att avgränsa referenskontrollen till spelkapitlen,
 ## Dokumentkontroller
 
 - Alla sju SKILL.md passerade skill-creators quick_validate.py: giltig frontmatter, namn och avsaknad av oavslutade mallfält enligt validatorns kontroller.
-- 38 Markdown-filer granskades för relativa dokumentlänkar och avslutande blanksteg. Samtliga 196 relativa dokumentlänkar hade mål och inga avslutande blanksteg hittades.
+- Efter integrationen av arbetsformer.md granskades 37 Markdown-filer för relativa dokumentlänkar och avslutande blanksteg. Samtliga 188 relativa dokumentlänkar hade mål och inga avslutande blanksteg hittades. Den ändrade handle-request passerade formatvalidatorn på nytt; övriga skills är oförändrade sedan den första valideringen.
 - En genomgång av dokumentlänkar från AGENTS når alla sju skills. Detta visar navigerbarhet i repot, inte automatisk registrering i en viss agentklient.
 - Diffkontrollen visade inga ändringar i story/regler, story/varld eller story/aventyr, inte heller i AI-USAGE, licens-, bidrags- eller erkännandefilerna. Sökning efter externa URL:er, knowledge-länkar och vanliga ursprungsmarkeringar i spelkapitlen gav inga träffar.
 - Git-kontroll av blanksteg passerade. Kontrollerna verifierar dokumentens struktur och den avsedda separationen; de visar inte att framtida agenter alltid följer instruktionerna.
+
+## Integration av arbetsformer.md
+
+Vid användarens följdfråga jämfördes sammanfattningen med AGENTS och befintliga skills. Arbetsgång, domänuppdelning, forskningsregel och granskningskrav fanns redan i sina respektive hem. Gemensamt mandat förtydligades i AGENTS och gränsen mellan PR och tillstånd till merge lades i handle-request. Den dubblerande filen togs bort och aktiva länkar ersattes; historiska omnämnanden behölls som historik.
+
+Kontrollfallen var att en ny agent kan hitta rätt arbetsflöde från AGENTS, att borttagningen inte ger tillstånd till ytterligare arbete eller merge, och att speltexter fortfarande följer forskningsuppdelningen. Dokumentgenomgången och länkkontrollen visade att dessa instruktioner är kvar utan beroende av den borttagna filen.
 
 ## Ursprung och omfattning för AI
 
