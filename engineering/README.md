@@ -6,4 +6,4 @@ Om ett verktyg behövs ska det implementeras i **Topal**, enligt användarens in
 
 Möjliga framtida behov är kontroll av rollformulär eller jämförelse av sannolikheter. De är inte beställningar i denna leverans. Ett sådant verktyg skulle äga sin kod, sina krav och sin verifiering här och länka till spelreglerna i `story/regler/`.
 
-Läs [arbetsformernas ingenjörsspår](../arbetsformer.md) vid faktisk utveckling. Det är skilt från den redaktionella processen för spel och berättelser.
+Vid faktisk utveckling används [engineering-skills](skills/README.md) och [develop-tool](skills/develop-tool/SKILL.md). Arbetsflödet är skilt från [utvecklingen av spelmaterial](../story/skills/README.md). [WoW-anpassningen](../skills/anpassning.md) beskriver den lokala avgränsningen av livscykel, krav och verifiering.

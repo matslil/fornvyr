@@ -18,9 +18,9 @@ Fornvyr är ett svenskt bordsrollspel om människor som tillsammans förändrar 
 
 ## Utveckla Fornvyr
 
-[Arbetsformer](arbetsformer.md) beskriver ett lokalt anpassat förslag från WoW. [Berättelsespåret](story/README.md) äger spelmaterialet; [ingenjörsspåret](engineering/README.md) äger eventuella framtida verktyg, som ska skrivas i Topal.
+[Arbetsformer](arbetsformer.md) sammanfattar processen. [Skillindexet](skills/README.md) leder till de konkreta arbetsflödena, och [WoW-anpassningen](skills/anpassning.md) förklarar deras ursprung och lokala ändringar. [Story-skills](story/skills/README.md) hanterar spelmaterialet; [engineering-skills](engineering/skills/README.md) hanterar eventuella framtida verktyg, som ska skrivas i Topal.
 
-[Kulturunderlag](knowledge/kulturunderlag.md) och [underlag för värld och regler](knowledge/varldsunderlag.md) skiljer historiska belägg från världsval. [Tregrunden och alternativen](knowledge/magins-grund.md) prövar magins modell och dess gränser.
+[Kunskapsindexet](knowledge/README.md) samlar underlagen. [Kulturunderlag](knowledge/kulturunderlag.md) och [underlag för värld och regler](knowledge/varldsunderlag.md) skiljer historiska belägg från världsval. [Tregrunden och alternativen](knowledge/magins-grund.md) prövar magins modell och dess gränser.
 
 [Designval och Fate-jämförelse](knowledge/designval.md), [källförteckning](knowledge/kallor.md) och [granskning och provspelningsplan](knowledge/granskning.md) gör underlaget granskningsbart. [AI-användning](AI-USAGE.md) redovisar omfattningen av denna leverans.
 

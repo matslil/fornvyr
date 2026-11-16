@@ -2,12 +2,19 @@
 
 @/home/mats/.codex/RTK.md
 
-## Uppdragets utgångspunkter
+## Läs och välj arbetsflöde
 
-Läs [README](README.md) och [projektdefinitionen](knowledge/projekt.md) inför arbete. Användarens instruktioner styr uppdraget. De nya arbetsformerna i [arbetsformer.md](arbetsformer.md) är ett granskningsförslag; de ger inte sig själva status som godkänd, bestående policy.
+1. Läs [README](README.md) och [projektdefinitionen](knowledge/projekt.md). Användarens instruktioner styr uppdraget.
+2. Välj relevant arbetsflöde i [skills/README.md](skills/README.md) och läs dess SKILL.md. Vid nytt eller korrigerat uppdrag används [handle-request](skills/handle-request/SKILL.md).
+3. För värld och äventyr används [develop-story](story/skills/develop-story/SKILL.md); för regler används [develop-rules](story/skills/develop-rules/SKILL.md). För faktiska programverktyg används [develop-tool](engineering/skills/develop-tool/SKILL.md).
+4. Läs bara berört underlag via [knowledge](knowledge/README.md). Granska resultat med [verify-output](skills/verify-output/SKILL.md). Vid processfrågor eller processändringar, läs [WoW-anpassningen](skills/anpassning.md).
 
-Användarens val av Topal gäller om verktyg implementeras. Håll arbetet med spelregler, värld och berättelser åtskilt från programvaruutveckling. Ingångar: [story](story/README.md) och [engineering](engineering/README.md).
+Skills läses från repot via dessa länkar; de förutsätter ingen global installation. [Arbetsformer](arbetsformer.md) sammanfattar struktur och mandat. Processändringar ska vara granskningsbara och får inte ge sig själva status som mänskligt godkända.
 
-Användaren har beslutat att historiska belägg, forskningsreferenser och skillnaden mellan belagt och skapat ska dokumenteras i `knowledge/`, med koppling till berörd speltext. Världs- och regeltexten i `story/` ska vara fri från sådana referenser och ursprungsmarkeringar. Det som anges där gäller som sant inom Mundor, oavsett historiskt ursprung. Rollpersonernas osäkerhet och invånarnas motstridiga tolkningar kan fortfarande vara delar av världen.
+## Bestående användarkrav
 
-Aktuellt underlag och genomförda kontroller finns i [knowledge](knowledge/kallor.md). Befintliga licens- och bidragsvillkor gäller fortsatt; erkännanden behålls på projektnivå.
+Håll spelutveckling och programvaruutveckling åtskilda. Regler hör till berättelsespåret. Eventuella implementerade verktyg ska använda **Topal**.
+
+Historiska belägg, forskningsreferenser och skillnaden mellan belagt och skapat hör till knowledge. Världs- och regeltexten beskriver det som är sant i Mundor utan sådana hänvisningar. Tillämpa [forskningsunderlag och speltext](skills/referenser/forskning-och-speltext.md) vid forskning, författande och granskning. Processfiler under story/skills är inte speltext.
+
+Befintliga licens- och bidragsvillkor gäller. Läs [AI-USAGE](AI-USAGE.md) för berörd omfattning; erkännanden behålls på projektnivå. Redovisa faktisk granskning och kunskapsändringar. Mänsklig provspelning eller historisk expertgranskning får inte ersättas med ett påstående om att agentens kontroller passerade.
