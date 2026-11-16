@@ -10,6 +10,18 @@ Namn: __________  Hemort och språk: __________  Spelare: __________
 - Förankring:
 - Fri aspekt:
 
+## Gemensam bakgrund
+
+Följ [bakgrundsprocessen](gemensam-bakgrund.md) och skicka runt separata [historiekort](historiekort.md). Behåll detta formulär.
+
+| Omgång | Historien och mitt bidrag, i korthet | Aspektplats ovan |
+| --- | --- | --- |
+| Min egen händelse | | Förankring |
+| Mitt första gästspel: hos __________ | | Relation |
+| Mitt andra gästspel: hos __________ | | Fri aspekt |
+
+Vid två spelare används en gemensam tredje händelse i sista raden. Historierna fyller de befintliga aspektplatserna; de ger inga extra aspekter.
+
 ## Färdigheter
 
 | Nivå | Färdigheter |

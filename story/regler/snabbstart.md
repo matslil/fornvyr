@@ -52,3 +52,5 @@ Inför magi sägs vad som ska hända, varför personen kan försöka, hur omfatt
 ## Spela första scenen
 
 Använd de färdiga rollpersonerna i [Klockan under vadstället](../aventyr/klockan-under-vadstallet.md). Fråga var och en vad hen försöker rädda. Avgör ett försök i taget. Efter scenen kan ni läsa de mer detaljerade regler som faktiskt kom upp.
+
+Vill ni skapa egna rollpersoner tillsammans, använd [Skapa er gemensamma bakgrund](gemensam-bakgrund.md). Ni skriver korta historiesegment och byter dem för att bygga relationer och välja aspekter.
