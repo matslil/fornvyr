@@ -1,5 +1,7 @@
 # Verktyg för Fornvyr
 
+[Dokumentationsbygget](documentation/README.md) bygger spelmaterial, kunskapsunderlag och processdokument lokalt eller i Read the Docs. Det konfigurerar Sphinx/MyST och implementerar inget eget programverktyg. [Behov och verifiering](documentation/knowledge.md) hör till detta byggsystem.
+
 Inga nya programverktyg ingår i version 0.1. Reglerna kan användas med papper, pennor och tärningar.
 
 Om ett verktyg behövs ska det implementeras i **Topal**, enligt användarens instruktion. Referens är [Topal-repositoryt](https://github.com/matslil/topal); språkstöd ska kontrolleras i dess aktuella dokumentation och implementation innan ett verktygsförslag låses.

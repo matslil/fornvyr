@@ -5,6 +5,7 @@ Här finns forskning, designval och granskningsresultat. Spelmaterialet finns i 
 | Fråga | Underlag |
 | --- | --- |
 | Vad har användaren beställt och vad antar vi? | [Projektdefinition](projekt.md) |
+| Hur byggs hela dokumentationen lokalt och i Read the Docs? | [Bygganvisning](../engineering/documentation/README.md) och [tekniskt underlag](../engineering/documentation/knowledge.md) |
 | Vad vet vi om olika kulturers föreställningar, och vad är tillagt? | [Kulturunderlag](kulturunderlag.md) |
 | Vad bygger kartor, metafysik, regler och äventyr på? | [Världsunderlag](varldsunderlag.md) |
 | Vilka källor har använts och hur långt räcker de? | [Källor](kallor.md) |
