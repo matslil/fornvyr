@@ -1,0 +1,739 @@
+[
+	{
+		"id": "sverige",
+		"namn": "Svear och götar",
+		"vegetation": "Barrskog, lövängar, ljunghedar och odlade slättbygder.",
+		"bbox": [
+			10.0,
+			55.0,
+			25.0,
+			69.0
+		]
+	},
+	{
+		"id": "gotland",
+		"namn": "Gotland",
+		"vegetation": "Kalkhed, gles tallskog, ängar och åkrar.",
+		"bbox": [
+			18.0,
+			56.8,
+			19.5,
+			58.2
+		]
+	},
+	{
+		"id": "norge",
+		"namn": "Norge",
+		"vegetation": "Kusthed, björkskog, barrskog i dalarna och kalfjäll.",
+		"bbox": [
+			4.0,
+			57.0,
+			32.0,
+			72.0
+		]
+	},
+	{
+		"id": "danmark",
+		"namn": "Danmark och Skåne",
+		"vegetation": "Bok- och ekskog, åkrar, strandängar och sanddyner.",
+		"bbox": [
+			7.5,
+			54.5,
+			16.0,
+			58.0
+		]
+	},
+	{
+		"id": "finland",
+		"namn": "Finlands kust och sjöland",
+		"vegetation": "Tall, gran och björk; svedjor, myrar och otaliga sjöstråk.",
+		"bbox": [
+			19.0,
+			59.0,
+			32.0,
+			70.0
+		]
+	},
+	{
+		"id": "sapmi",
+		"namn": "Sápmi",
+		"vegetation": "Fjällbjörk, lavhed, tundra, barrskog och myrmarker.",
+		"bbox": [
+			10.0,
+			65.0,
+			38.0,
+			72.0
+		]
+	},
+	{
+		"id": "island",
+		"namn": "Island",
+		"vegetation": "Björksnår, gräsmarker, lavafält och kusthed.",
+		"bbox": [
+			-25.0,
+			63.0,
+			-13.0,
+			67.0
+		]
+	},
+	{
+		"id": "gronland",
+		"namn": "Grönlands bygder",
+		"vegetation": "Fjällhed, dvärgbjörk, gräsdalar och inlandets is.",
+		"bbox": [
+			-60.0,
+			59.0,
+			-20.0,
+			83.0
+		]
+	},
+	{
+		"id": "england",
+		"namn": "England",
+		"vegetation": "Ekskog, åkrar, betesmarker, hedar och torvmarker.",
+		"bbox": [
+			-6.0,
+			49.5,
+			2.0,
+			56.0
+		]
+	},
+	{
+		"id": "wales",
+		"namn": "Wales",
+		"vegetation": "Regniga berg, ekdalar, hedar och strandängar.",
+		"bbox": [
+			-5.6,
+			51.3,
+			-2.5,
+			53.6
+		]
+	},
+	{
+		"id": "skottland",
+		"namn": "Skottland",
+		"vegetation": "Tallskog, ljunghed, torvmarker och fjällgräs.",
+		"bbox": [
+			-8.0,
+			54.5,
+			-0.5,
+			61.0
+		]
+	},
+	{
+		"id": "irland",
+		"namn": "Irland",
+		"vegetation": "Ekskog, betesmarker, torvmyrar och hedar.",
+		"bbox": [
+			-11.0,
+			51.0,
+			-5.0,
+			56.0
+		]
+	},
+	{
+		"id": "frankrike",
+		"namn": "Frankrike",
+		"vegetation": "Ekskog, bokskog, vingårdar, åkrar och sydliga buskmarker.",
+		"bbox": [
+			-5.0,
+			42.0,
+			8.0,
+			51.5
+		]
+	},
+	{
+		"id": "riket",
+		"namn": "Romerska riket",
+		"vegetation": "Bok- och ekskog, barrskog i höjderna, åkrar och vingårdar.",
+		"bbox": [
+			4.0,
+			45.0,
+			17.0,
+			55.0
+		]
+	},
+	{
+		"id": "italien",
+		"namn": "Italiens städer och kyrkoland",
+		"vegetation": "Olivlundar, vingårdar, kastanjeskog, bokskog och odlade flodslätter.",
+		"bbox": [
+			6.0,
+			36.5,
+			19.0,
+			47.0
+		]
+	},
+	{
+		"id": "sicilien",
+		"namn": "Sicilien",
+		"vegetation": "Oliv, vinstockar, citrusodlingar, buskmark och bergsskog.",
+		"bbox": [
+			11.5,
+			35.5,
+			16.0,
+			39.0
+		]
+	},
+	{
+		"id": "navarra",
+		"namn": "Navarra",
+		"vegetation": "Bokskog och barrskog i bergen, vingårdar och torra sydliga slätter.",
+		"bbox": [
+			-2.7,
+			41.7,
+			0,
+			43.4
+		]
+	},
+	{
+		"id": "kastilien",
+		"namn": "Kastilien och León",
+		"vegetation": "Ek, korkek, pinjeskog, åkrar, betesplatåer och torra snårmarker.",
+		"bbox": [
+			-9.5,
+			36.0,
+			-1.0,
+			44.0
+		]
+	},
+	{
+		"id": "aragonien",
+		"namn": "Aragonien och Katalonien",
+		"vegetation": "Pinje, ek, vin, oliver och bergens barrskog.",
+		"bbox": [
+			-2.0,
+			38.0,
+			4.0,
+			43.0
+		]
+	},
+	{
+		"id": "granada",
+		"namn": "Granada",
+		"vegetation": "Olivlundar, bevattnade trädgårdar, pinje och torra bergssidor.",
+		"bbox": [
+			-6.0,
+			35.8,
+			-1.5,
+			38.0
+		]
+	},
+	{
+		"id": "portugal",
+		"namn": "Portugal",
+		"vegetation": "Korkek, ek, pinje, vin och sydliga buskmarker.",
+		"bbox": [
+			-10.0,
+			36.5,
+			-6.0,
+			42.5
+		]
+	},
+	{
+		"id": "polen",
+		"namn": "Polens furstendömen",
+		"vegetation": "Lövskog, barrskog, åkrar, flodängar och myrmark.",
+		"bbox": [
+			14.0,
+			48.0,
+			25.0,
+			55.0
+		]
+	},
+	{
+		"id": "ungern",
+		"namn": "Ungern",
+		"vegetation": "Lövskog i höjderna, betesslätter och flodernas våtmarker.",
+		"bbox": [
+			16.0,
+			44.0,
+			26.0,
+			49.0
+		]
+	},
+	{
+		"id": "balkan",
+		"namn": "Balkans riken",
+		"vegetation": "Ek, bok, barrskog, bergsängar och kustens buskmarker.",
+		"bbox": [
+			16.0,
+			40.0,
+			29.0,
+			46.0
+		]
+	},
+	{
+		"id": "bysans",
+		"namn": "Romarnas rike och grekiska land",
+		"vegetation": "Oliv, vin, pinje, ekskog och torra bergsängar.",
+		"bbox": [
+			19.0,
+			34.0,
+			30.0,
+			42.0
+		]
+	},
+	{
+		"id": "livland",
+		"namn": "Livland och Estland",
+		"vegetation": "Tall- och granskog, lövängar, åkrar och myrar.",
+		"bbox": [
+			21.0,
+			55.0,
+			29.0,
+			60.0
+		]
+	},
+	{
+		"id": "litauen",
+		"namn": "Litauen",
+		"vegetation": "Ek, gran, tall och stora skogsmyrar.",
+		"bbox": [
+			21.0,
+			53.0,
+			29.0,
+			57.0
+		]
+	},
+	{
+		"id": "rus",
+		"namn": "Rus länder",
+		"vegetation": "Blandskog, barrskog, flodängar och sydliga skogsstäpper.",
+		"bbox": [
+			27.0,
+			48.0,
+			50.0,
+			64.0
+		]
+	},
+	{
+		"id": "anatolien",
+		"namn": "Anatoliens riken",
+		"vegetation": "Ekskog, tallskog, torra högslätter och bevattnade dalar.",
+		"bbox": [
+			26.0,
+			35.0,
+			44.0,
+			42.5
+		]
+	},
+	{
+		"id": "armenien",
+		"namn": "Armenien och Georgien",
+		"vegetation": "Bok- och ekskog, bergsängar, vin och torra platåer.",
+		"bbox": [
+			39.0,
+			38.0,
+			48.0,
+			44.0
+		]
+	},
+	{
+		"id": "levant",
+		"namn": "Levanten och Heliga landet",
+		"vegetation": "Oliv, vin, ek, torra buskmarker och bevattnade trädgårdar.",
+		"bbox": [
+			34.0,
+			29.0,
+			38.5,
+			37.5
+		]
+	},
+	{
+		"id": "mesopotamien",
+		"namn": "Mesopotamien",
+		"vegetation": "Dadellundar, bevattnade åkrar, vasshav och torra stäpper.",
+		"bbox": [
+			39.0,
+			29.0,
+			49.0,
+			38.0
+		]
+	},
+	{
+		"id": "persien",
+		"namn": "Persien",
+		"vegetation": "Bergsstäpp, lövskog vid Kaspiska havet, oaser och torra saltöknar.",
+		"bbox": [
+			44.0,
+			24.0,
+			64.0,
+			40.0
+		]
+	},
+	{
+		"id": "transoxanien",
+		"namn": "Transoxanien och oasvägarna",
+		"vegetation": "Stäpp, fruktlundar, bevattnade åkrar och öken.",
+		"bbox": [
+			52.0,
+			34.0,
+			82.0,
+			46.0
+		]
+	},
+	{
+		"id": "tartariet",
+		"namn": "Tartariet och stäpprikena",
+		"vegetation": "Grässtäpp, halvöken, flodängar och skog vid de nordliga bergen.",
+		"bbox": [
+			42.0,
+			43.0,
+			120.0,
+			58.0
+		]
+	},
+	{
+		"id": "cathay",
+		"namn": "Cathay och södra Kina",
+		"vegetation": "Tempererad lövskog i norr, risland, bambu och fuktig bergsskog i söder.",
+		"bbox": [
+			98.0,
+			20.0,
+			124.0,
+			42.0
+		]
+	},
+	{
+		"id": "tibet",
+		"namn": "Tibet",
+		"vegetation": "Höghöjdsstäpp, alpina ängar och skog i skyddade östliga dalar.",
+		"bbox": [
+			78.0,
+			27.0,
+			100.0,
+			36.0
+		]
+	},
+	{
+		"id": "nepal",
+		"namn": "Nepals dalar",
+		"vegetation": "Terrassodlingar, lövskog, rhododendron och högalpina beten.",
+		"bbox": [
+			80.0,
+			26.0,
+			89.0,
+			31.0
+		]
+	},
+	{
+		"id": "indien",
+		"namn": "Indiens riken",
+		"vegetation": "Tropisk skog, torra skogar, risland, bevattnade slätter och höga berg.",
+		"bbox": [
+			67.0,
+			7.0,
+			92.0,
+			35.0
+		]
+	},
+	{
+		"id": "taprobane",
+		"namn": "Lanka, Taprobane",
+		"vegetation": "Monsunskog, torra skogar, risfält och fuktiga höglandsdalar.",
+		"bbox": [
+			79.0,
+			5.5,
+			82.0,
+			10.0
+		]
+	},
+	{
+		"id": "khmer",
+		"namn": "Khmerernas land",
+		"vegetation": "Monsunskog, risfält, palm och stora översvämningsskogar.",
+		"bbox": [
+			101.0,
+			10.0,
+			108.0,
+			16.0
+		]
+	},
+	{
+		"id": "sydostasien",
+		"namn": "Pagan, Đại Việt och fastlandets riken",
+		"vegetation": "Monsunskog, bambu, risfält och skogiga kalkberg.",
+		"bbox": [
+			92.0,
+			9.0,
+			109.0,
+			25.0
+		]
+	},
+	{
+		"id": "ostra-oarna",
+		"namn": "Japans öar",
+		"vegetation": "Ceder, cypress, lövskog, risfält och alpina höjder.",
+		"bbox": [
+			129.0,
+			30.0,
+			146.0,
+			46.0
+		]
+	},
+	{
+		"id": "goryeo",
+		"namn": "Goryeo",
+		"vegetation": "Lövskog, barrskog i höjderna, risfält och kustmarsk.",
+		"bbox": [
+			124.0,
+			33.0,
+			131.0,
+			43.0
+		]
+	},
+	{
+		"id": "java",
+		"namn": "Java och sundets öar",
+		"vegetation": "Regnskog, risfält, bambu, mangrove och vulkanernas bergsskog.",
+		"bbox": [
+			95.0,
+			-11.0,
+			123.0,
+			6.0
+		]
+	},
+	{
+		"id": "arabien",
+		"namn": "Arabien",
+		"vegetation": "Dadeloaser, torra buskmarker, höglandets terrasser och sandöken.",
+		"bbox": [
+			34.0,
+			12.0,
+			60.0,
+			32.0
+		]
+	},
+	{
+		"id": "egypten",
+		"namn": "Egypten",
+		"vegetation": "Nilens åkrar, dadellundar, deltamarker och omgivande öken.",
+		"bbox": [
+			24.0,
+			22.0,
+			36.0,
+			32.0
+		]
+	},
+	{
+		"id": "nubien",
+		"namn": "Nubiens riken",
+		"vegetation": "Flodåkrar, dadellundar, akaciasnår och torr stenöken.",
+		"bbox": [
+			28.0,
+			14.0,
+			36.0,
+			23.0
+		]
+	},
+	{
+		"id": "etiopien",
+		"namn": "Etiopiens högland",
+		"vegetation": "Bergsängar, en- och olivskog, åkrar och torra låglandssnår.",
+		"bbox": [
+			35.0,
+			6.0,
+			43.0,
+			16.0
+		]
+	},
+	{
+		"id": "maghreb",
+		"namn": "Maghrebs riken",
+		"vegetation": "Korkek, ceder, oliv, torra buskmarker och oaser.",
+		"bbox": [
+			-13.0,
+			27.0,
+			12.0,
+			38.0
+		]
+	},
+	{
+		"id": "sahel",
+		"namn": "Mande och Sahels handelsland",
+		"vegetation": "Grässavann, akacia, galleriskog och flodernas översvämningsängar.",
+		"bbox": [
+			-17.0,
+			8.0,
+			20.0,
+			22.0
+		]
+	},
+	{
+		"id": "ostafrika",
+		"namn": "Östafrikas kust och inland",
+		"vegetation": "Kustskog, mangrove, savann, miomboskog och bergsskog.",
+		"bbox": [
+			29.0,
+			-21.0,
+			43.0,
+			1.0
+		]
+	},
+	{
+		"id": "sodra-afrika",
+		"namn": "Södra Afrikas land",
+		"vegetation": "Miomboskog, grässavann, torra buskmarker och kustskog.",
+		"bbox": [
+			10.0,
+			-35.0,
+			37.0,
+			-12.0
+		]
+	},
+	{
+		"id": "guinea",
+		"namn": "Guineakusten och skogslanden",
+		"vegetation": "Fuktig regnskog, oljepalmer, savannmosaik och kustmangrove.",
+		"bbox": [
+			-17.0,
+			-5.0,
+			15.0,
+			10.0
+		]
+	},
+	{
+		"id": "kongo",
+		"namn": "De stora skogslanden",
+		"vegetation": "Regnskog, sumpskog, flodängar och savann i söder.",
+		"bbox": [
+			10.0,
+			-12.0,
+			31.0,
+			6.0
+		]
+	},
+	{
+		"id": "madagaskar",
+		"namn": "Madagaskar",
+		"vegetation": "Östlig regnskog, höglandets gräsmarker, torrskog och sydliga taggsnår.",
+		"bbox": [
+			42.0,
+			-26.0,
+			51.0,
+			-11.0
+		]
+	},
+	{
+		"id": "vasterlanden",
+		"namn": "Västerlandens flodriken",
+		"vegetation": "Lövskog, prärie, flodskog och våtmarker.",
+		"bbox": [
+			-105.0,
+			25.0,
+			-70.0,
+			50.0
+		]
+	},
+	{
+		"id": "pueblo",
+		"namn": "Pueblolanden",
+		"vegetation": "Tall- och enskog, högöken, gräsmarker och bevattnade floddalar.",
+		"bbox": [
+			-115.0,
+			29.0,
+			-103.0,
+			39.0
+		]
+	},
+	{
+		"id": "maya",
+		"namn": "Mayalanden",
+		"vegetation": "Regnskog, kalkstensskog, mangrove och odlade gläntor.",
+		"bbox": [
+			-94.0,
+			14.0,
+			-86.0,
+			22.0
+		]
+	},
+	{
+		"id": "anahuac",
+		"namn": "Anáhuac och Mexikos högland",
+		"vegetation": "Tall, ek, torra buskmarker, sjöodlingar och höglandsgräs.",
+		"bbox": [
+			-105.0,
+			16.0,
+			-96.0,
+			23.0
+		]
+	},
+	{
+		"id": "chimu",
+		"namn": "Chimú och Andernas land",
+		"vegetation": "Kustöken, bevattnade dalar, höglandsgräs och östlig molnskog.",
+		"bbox": [
+			-82.0,
+			-22.0,
+			-66.0,
+			0.0
+		]
+	},
+	{
+		"id": "amazonien",
+		"namn": "Amazonas flodland",
+		"vegetation": "Regnskog, översvämningsskog, flodängar och savannöar.",
+		"bbox": [
+			-78.0,
+			-15.0,
+			-48.0,
+			6.0
+		]
+	},
+	{
+		"id": "patagonien",
+		"namn": "Söderns berg och gräsland",
+		"vegetation": "Grässtäpp, sydlig bokskog, myrar och högalpin ödemark.",
+		"bbox": [
+			-76.0,
+			-56.0,
+			-57.0,
+			-30.0
+		]
+	},
+	{
+		"id": "nordvastra",
+		"namn": "Västerlandens nordkuster",
+		"vegetation": "Barrskog, tundra, kustregnskog och alpina höjder.",
+		"bbox": [
+			-165.0,
+			45.0,
+			-110.0,
+			73.0
+		]
+	},
+	{
+		"id": "ohavet",
+		"namn": "Öhavet",
+		"vegetation": "Kokos, brödfrukt, tropisk skog, vulkansluttningar och korallöar.",
+		"bbox": [
+			140.0,
+			-30.0,
+			200.0,
+			25.0
+		]
+	},
+	{
+		"id": "aotearoa",
+		"namn": "Aotearoa",
+		"vegetation": "Podokarpskog, bokskog, ormbunkar och högalpina marker.",
+		"bbox": [
+			165.0,
+			-48.0,
+			179.0,
+			-33.0
+		]
+	},
+	{
+		"id": "soderlandet",
+		"namn": "Söderlandet",
+		"vegetation": "Eukalyptusskog, savann, tropisk skog, buskstäpp och sandöknar.",
+		"bbox": [
+			112.0,
+			-44.0,
+			154.0,
+			-10.0
+		]
+	}
+]

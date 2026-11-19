@@ -6,6 +6,10 @@ För denna leverans kommer namnen Fornvyr och Mundor, startåret 1280, den över
 
 Historiska fakta har sökts i externa källor; AI-genererade spelidéer är inte historiska belägg. Forskningsstöd och tillagda världsval dokumenteras i `knowledge/`; speltexten återger företeelserna som sanna inom Mundor enligt användarens presentationsbeslut. Texterna är ännu inte mänskligt sakgranskade eller provspelade. Mänsklig granskning ändrar inte uppgiften om hur texten uppkom.
 
+Det beställda kartarbetet omfattar också AI-ritad SVG-geografi, terräng- och landmärkessymboler, källjämförelse, objektinventering och teknisk/visuell egenkontroll. [Kartrevisionens underlag](knowledge/kartrevision-1280.md) skiljer källförankrade motiv från Mundors tillägg och redovisar kontrollernas räckvidd. Ingen mänsklig historisk expertgranskning påstås.
+
+Den utökade landsinventeringen och detaljatlasen omfattar AI-författade landsbeskrivningar, urval av platser, namn, spelintressen och schematiska färdleder samt bearbetning av Natural Earths geografiska data. [Atlasunderlaget](knowledge/atlas/README.md) skiljer lästa platskällor, återanvänt Mundormaterial, modern geografisk utfyllnad och öppna dateringsluckor. Kartans moderna grundgeografi innebär inte att varje detalj eller namn har verifierats för 1280.
+
 Befintliga `LICENSE.md`, `CLA.md` och `CONTRIBUTING.md` har inte omklassificerats eller skrivits om. Deras tidigare författarskap bedöms inte här. En permanent författarskapspolicy, särskilt för nya bidragsgivare, behöver fastställas av projektansvarig.
 
 Dokumentationsbygget har på användarens uppdrag konfigurerats och kontrollerats av AI. Omfattningen är Sphinx/MyST-inställningar, Make- och Read the Docs-konfiguration, bygganvisningar samt teknisk verifiering. Ett felaktigt rubrikankare i `CONTRIBUTING.md` har rättats; villkoren har inte ändrats. Faktiska kontroller och begränsningen för molnverifieringen redovisas i [byggunderlaget](engineering/documentation/knowledge.md).

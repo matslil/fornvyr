@@ -48,3 +48,9 @@ Kontroller utförda 2026-11-19 på Linux med Python 3.14.7:
 | Faktiskt bygge på readthedocs.io | **Ej kört.** Konfigurationen använder dokumenterade v2-inställningar. Projektimport, integration och en riktig molnbyggning återstår. |
 
 Kontrollerna verifierar byggkedja och tillgång till dokumenten. De är inte historisk sakkontroll, fullständig browser-/tillgänglighetsgranskning eller ett test av externa webbplatsers tillgänglighet. Ett verkligt molnbygge förutsätter att rätt gren finns hos GitHub och har kopplats till Read the Docs; det har inte ersatts med ett påstående om att tjänsten körts lokalt.
+
+## Tillägg: atlasens SVG-vyer
+
+Landsatlasens integration, också 2026-11-19, avslöjade att MyST/Sphinx omvandlar Markdown-länkar till SVG-vyer till nedladdningslänkar och tappar fragmentet. Ett lyckat bygge garanterade alltså inte att `#sverige` överlevde. Rättningen använder HTML-länkar i atlasen och den deklarativa inställningen [html_extra_path](https://www.sphinx-doc.org/en/master/usage/configuration.html#confval-html_extra_path), läst vid rättningen. En relativ katalogsymlänk under `assets` ger samma kartväg i källträdet och HTML-resultatet utan dubbla original. Ingen egen plugin eller kopieringskod införs.
+
+Kontrollen omfattar bevarade fragment för alla 67 regioner, målens `<view>`-ID:n, filernas innehåll och ett nytt strikt bygge. Slutresultatet redovisas i [atlasgranskningen](../../knowledge/atlas/granskning.md). Stöd för symlänkar i andra operativsystems utcheckningar och faktisk drift på Read the Docs är inte verifierade.

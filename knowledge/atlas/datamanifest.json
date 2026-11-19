@@ -1,0 +1,101 @@
+[
+	{
+		"tema": "geography_regions_points",
+		"url": "https://naciscdn.org/naturalearth/10m/physical/ne_10m_geography_regions_points.zip",
+		"version": "5.0.0",
+		"hamtad": "2026-11-19",
+		"sha256": "2cf54b21fc684f0f7023886379c7ae9c5c716d8bd4c3ead19050f3a7f53e4f7d",
+		"licens": "Public domain",
+		"upplosning": "generaliserad kartdata 1:10 miljoner"
+	},
+	{
+		"tema": "geography_regions_polys",
+		"url": "https://naciscdn.org/naturalearth/10m/physical/ne_10m_geography_regions_polys.zip",
+		"version": "5.0.0",
+		"hamtad": "2026-11-19",
+		"sha256": "cb7b9db200284ed1551f20eacc7f3333e9b5f311c19f7cb2670694529f688682",
+		"licens": "Public domain",
+		"upplosning": "generaliserad kartdata 1:10 miljoner"
+	},
+	{
+		"tema": "glaciated_areas",
+		"url": "https://naciscdn.org/naturalearth/10m/physical/ne_10m_glaciated_areas.zip",
+		"version": "4.1.0",
+		"hamtad": "2026-11-19",
+		"sha256": "de6ff396ab7eee8cbe2146030cc29278ef67c468e5675c748b1372e241ecbbff",
+		"licens": "Public domain",
+		"upplosning": "generaliserad kartdata 1:10 miljoner"
+	},
+	{
+		"tema": "lakes",
+		"url": "https://naciscdn.org/naturalearth/10m/physical/ne_10m_lakes.zip",
+		"version": "5.0.0",
+		"hamtad": "2026-11-19",
+		"sha256": "0803a06f9c3cb4671d89b68c48b142aad9366ba40f665245e12a913fbc61722a",
+		"licens": "Public domain",
+		"upplosning": "generaliserad kartdata 1:10 miljoner"
+	},
+	{
+		"tema": "lakes_europe",
+		"url": "https://naciscdn.org/naturalearth/10m/physical/ne_10m_lakes_europe.zip",
+		"version": "5.0.0",
+		"hamtad": "2026-11-19",
+		"sha256": "c0b1f0da4dce6af3b27c49b3ed11a664d801ff3d140ca5b9814e7e85a35c1de1",
+		"licens": "Public domain",
+		"upplosning": "generaliserad kartdata 1:10 miljoner"
+	},
+	{
+		"tema": "lakes_historic",
+		"url": "https://naciscdn.org/naturalearth/10m/physical/ne_10m_lakes_historic.zip",
+		"version": "5.0.0",
+		"hamtad": "2026-11-19",
+		"sha256": "f82fb212a4e472fcfd43afb78b37b20792987cda4aa239aab6818e4b0fb713ac",
+		"licens": "Public domain",
+		"upplosning": "generaliserad kartdata 1:10 miljoner"
+	},
+	{
+		"tema": "land",
+		"url": "https://naciscdn.org/naturalearth/10m/physical/ne_10m_land.zip",
+		"version": "5.1.1",
+		"hamtad": "2026-11-19",
+		"sha256": "e547d749445eaa0964aba76738090ec88f5e63c4585122170f98c67a7ea922dc",
+		"licens": "Public domain",
+		"upplosning": "generaliserad kartdata 1:10 miljoner"
+	},
+	{
+		"tema": "playas",
+		"url": "https://naciscdn.org/naturalearth/10m/physical/ne_10m_playas.zip",
+		"version": "5.0.0",
+		"hamtad": "2026-11-19",
+		"sha256": "74e366d0042ecfa742bf787475a78442b44ae554dfcd3366cfa35254959e873c",
+		"licens": "Public domain",
+		"upplosning": "generaliserad kartdata 1:10 miljoner"
+	},
+	{
+		"tema": "reefs",
+		"url": "https://naciscdn.org/naturalearth/10m/physical/ne_10m_reefs.zip",
+		"version": "4.1.0",
+		"hamtad": "2026-11-19",
+		"sha256": "b29cce160628a9aa243ab9c88d2234d79af97aded495137248059230e36f508c",
+		"licens": "Public domain",
+		"upplosning": "generaliserad kartdata 1:10 miljoner"
+	},
+	{
+		"tema": "rivers_europe",
+		"url": "https://naciscdn.org/naturalearth/10m/physical/ne_10m_rivers_europe.zip",
+		"version": "5.0.0",
+		"hamtad": "2026-11-19",
+		"sha256": "c730ccb4cbe21c1f03d006de4032a0dc69ade342de941d10aa1facab59019dbf",
+		"licens": "Public domain",
+		"upplosning": "generaliserad kartdata 1:10 miljoner"
+	},
+	{
+		"tema": "rivers_lake_centerlines",
+		"url": "https://naciscdn.org/naturalearth/10m/physical/ne_10m_rivers_lake_centerlines.zip",
+		"version": "5.0.0",
+		"hamtad": "2026-11-19",
+		"sha256": "ded71b01870855ccfe19b51f2ec14c9bb48fae23c0e9f3c11974d426433b5c38",
+		"licens": "Public domain",
+		"upplosning": "generaliserad kartdata 1:10 miljoner"
+	}
+]

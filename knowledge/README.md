@@ -8,6 +8,9 @@ Här finns forskning, designval och granskningsresultat. Spelmaterialet finns i 
 | Hur byggs hela dokumentationen lokalt och i Read the Docs? | [Bygganvisning](../engineering/documentation/README.md) och [tekniskt underlag](../engineering/documentation/knowledge.md) |
 | Vad vet vi om olika kulturers föreställningar, och vad är tillagt? | [Kulturunderlag](kulturunderlag.md) |
 | Vad bygger kartor, metafysik, regler och äventyr på? | [Världsunderlag](varldsunderlag.md) |
+| Vilken karta gäller och vilket underlag har dess platser, naturföreteelser och färdleder? | [Beslut om atlasen, landsinventering och begränsningar](atlas/README.md), [platsregister](atlas/platser.tsv), [källor](atlas/kallor.md) och [granskning](atlas/granskning.md) |
+| Hur utvecklades det äldre, arkiverade kartutkastet? | [Tidigare kartunderlag och landsutsnitt](kartunderlag.md) |
+| Hur rättades rundkartans geografi och vilka Mundortillägg hade den? | [Tidigare kartrevision och symboler](kartrevision-1280.md), [utkastets objektinventering](kartinventering.tsv) och [tidigare granskning](kartvalidering-1280.md) |
 | Vilka källor har använts och hur långt räcker de? | [Källor](kallor.md) |
 | Hur skiljer sig reglerna från Fate? | [Designval](designval.md) |
 | Hur har historiesegment och gästspel anpassats? | [Gemensam bakgrund](gemensam-bakgrund.md) |

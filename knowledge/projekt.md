@@ -15,6 +15,9 @@
 - Uppdelningen ska levereras i en andra PR, efter grundutkastets PR.
 - Återkoppling 2026-11-16: de två PR:erna är mergade. Processanpassningen ska vara åtkomlig som skills och dokumentera både WoW-anpassningen och hur forskningsuppdelningen tillämpas.
 - Rollpersonsskapandet ska innehålla en process inspirerad av Fate där spelarna skriver historiesegment och byter dem mellan varandra.
+- Världskartan ska på sikt innehålla samma detaljer som landskartorna och fungera som deras gemensamma SVG-original. Geografi och utseende ska inspireras av hur världen föreställdes omkring 1280. Första försöket ska versionshanteras och granskas lokalt utan PR; [kartunderlaget](kartunderlag.md) dokumenterar omfattning och kvarvarande arbete.
+- Den utökade kartbeställningen omfattar landsvisa plats- och landskapslistor, vegetation, färdvägar och lokala namn med svenska motsvarigheter. Modern geografi får fylla luckor i tidsenlig information. [Atlasunderlaget](atlas/README.md) dokumenterar omfattning, källstatus och arbetsvalet att behålla rundkartan jämte en separat detaljerad färdkarta.
+- Efter atlasleveransen beslutade användaren: **”Låt mundor-atlas-1280.svg vara den karta som gäller”**, och beställde en PR. Atlasen är därmed Mundors gällande geografiska original och grund för fortsatta landskartor. Den äldre rundkartan bevaras som arkiverat utkast och styr inte längre geografin. Det tidigare kravet på enbart lokal leverans är ersatt för detta kartarbete; forskningsreferenser och osäkerheter ligger fortsatt i knowledge.
 
 ## Arbetsantaganden för version 0.1
 
