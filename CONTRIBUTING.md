@@ -26,7 +26,7 @@ Bidrag kan föreslås via issues eller pull requests. Skicka helst separata pull
 2. Skapa en egen branch och gör ändringen med tydliga, avgränsade commits.
 3. Ange källor där det är relevant, särskilt för historiska uppgifter. Skilj historiskt belagt innehåll från spelmässiga tillägg.
 4. Skapa en pull request med en kort sammanfattning, eventuella kompatibilitetseffekter och uppgifter om material från tredje part.
-5. **Godkänn `CLA.md`**, se [Avtal för bidragsgivare (CLA)](#avtal-for-bidragsgivare-cla) genom den signerings- eller CLA-process som Projektansvarig anger. Bidraget kan inte accepteras innan godkännandet är dokumenterat.
+5. **Godkänn `CLA.md`**, se [Avtal för bidragsgivare (CLA)](#avtal-för-bidragsgivare-cla) genom den signerings- eller CLA-process som Projektansvarig anger. Bidraget kan inte accepteras innan godkännandet är dokumenterat.
 6. Projektansvarig granskar och beslutar om Bidraget ska ingå. Ett accepterat bidrag kan senare redigeras, ersättas eller tas bort.
 
 ## 4. Material du inte ska skicka in utan särskilt tillstånd
