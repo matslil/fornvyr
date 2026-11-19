@@ -47,6 +47,8 @@ Ingen projektslug eller publik adress är hårdkodad; relativa länkar fungerar 
 
 Skriv vidare i de befintliga källfilerna. Relativa länkar till `.md`-filer skrivs som vanligt och översätts till HTML-länkar under bygget. Länkar till andra filer blir nedladdningar; de länkade filerna kopieras automatiskt. Metadata i skills-filerna läses som Markdown-frontmatter.
 
+SVG-länkar med namngivna vyer, exempelvis `#sverige`, behöver behålla fragmentet och öppnas i webbläsaren. Landsatlasen använder därför vanliga HTML-länkar till `kartor/mundor-atlas-1280.svg#sverige`. `html_extra_path` kopierar kartorna till samma relativa plats i HTML-resultatet. Katalogen `assets/story/varld/kartor` är en relativ symbolisk länk till originalens katalog, så inga dubbla SVG-original behöver underhållas. Git-utcheckningen måste bevara symboliska länkar; detta har kontrollerats på Linux, som också används i Read the Docs. Vanliga nedladdningslänkar finns kvar för övriga användningsfall.
+
 Rotens `index.rst` grupperar dokumenten i spelmaterial, kunskapsunderlag, utveckling/processer och projekt/villkor. Dess rekursiva globmönster tar med nya sidor inom de befintliga grupperna utan att varje sida behöver listas. Vid en ny huvudkatalog eller en ny kategori under `story` behöver innehållsförteckningen kompletteras; byggets varning för föräldralösa dokument hjälper att upptäcka det. Dolda kataloger, `tmp` och `_build` är undantagna. Dokument ska inte läggas där.
 
 `conf.py` innehåller enbart deklarativa inställningar för Sphinx. Ingen egen Python-generator, plugin eller dokumentkopierare har implementerats. Kravet på Topal gäller fortfarande för egna programverktyg; här används befintliga byggverktyg och deras standardkonfiguration.

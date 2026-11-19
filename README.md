@@ -14,6 +14,9 @@ Fornvyr är ett svenskt bordsrollspel om människor som tillsammans förändrar 
 ## Lär känna Mundor
 
 - [Mundor år 1280](story/varld/mundor.md): världspremiss, kartor, vardag och spelarnas inflytande.
+- [Mundors gällande världskarta i SVG](story/varld/kartor/mundor-atlas-1280.svg): länder, vatten, terräng, platser och färdleder, med öster uppåt.
+- [Landsförteckning och landsutsnitt](story/varld/landatlas.md): 67 länder och kartregioner med platser, vegetation och färdleder. Alla landsutsnitt använder världskartans gemensamma SVG-original.
+- [Karttecken i SVG](story/varld/kartor/karttecken.svg): berg, markslag, skogar och landmärken i större skala.
 - [Kulturer och traditioner](story/varld/kulturer.md): människor, heliga platser och övernaturliga krafter i världens olika delar.
 
 ## Utveckla Fornvyr

@@ -6,6 +6,8 @@ En ny kampanj börjar normalt år 1280. Från den stunden formar gruppens handli
 
 ## Världens bilder
 
+<a href="kartor/mundor-atlas-1280.svg">Mundors världskarta</a> visar land, vatten, terräng, platser och färdleder med öster uppåt och norr åt vänster. [Landsförteckningen](landatlas.md) beskriver regionerna och öppnar landsutsnitt ur samma karta. Dessa anger geografin som gruppens resor utgår från.
+
 Mundors kartor visar heliga centrum, minnesvärda resor, farliga randland och närheten mellan jordiska platser och andra världar. En plats kan vara viktig både för vägen dit och för de förbindelser som möts där.
 
 Den västeuropeiska världskartan har öster uppåt och heliga platser som framträdande orienteringspunkter. Lokala kartor kan visa praktiska vägar och segelleder. Avstånd för en vanlig resa är stabila; en passage till en annan värld kan följa löften, tidpunkter eller platsers samband. En port flyttar inte godtyckligt på sig bara för att spelledaren vill fördröja gruppen.
@@ -34,9 +36,9 @@ Magi ersätter därför inte all sjöfart, jordbruk eller läkekonst. En port kr
 
 Samtidigt måste tillförlitlig magi lämna spår i samhället. Ett verkligt skydd får väktare, ägare, kritiker och människor som försöker kopiera det. En handelsväg genom ett andeland får avtal och tullar. Om gruppen hittar en metod som verkligen kan spridas, låt den förändra världen; hitta inte på ett undantag enbart för att återställa historien.
 
-## En värld större än utgångskartan
+## Världens folk och färdvägar
 
-Den västeuropeiska kartan visar världen ur ett av många perspektiv. Människor i andra delar av Mundor har sina egna traditioner, samhällen och kunskaper. [Kulturöversikten](kulturer.md) börjar därför i Europa och fortsätter genom Afrika, Asien, Amerika och Oceanien.
+Världskartan omfattar hela Mundor. Rollpersonerna känner de platser och färdvägar som deras bakgrund och resor har lärt dem. Människor i olika delar av Mundor har sina egna traditioner, samhällen och kunskaper. [Kulturöversikten](kulturer.md) börjar i Europa och fortsätter genom Afrika, Asien, Amerika och Oceanien.
 
 Amerika, Australien och Stillahavsregionerna finns bortom de västeuropeiska kartornas kända färdvägar. Om gruppen reser dit ska platsens invånare ha egna mål och perspektiv. Västerländska resenärers berättelser är inte ett neutralt facit.
 

@@ -14,3 +14,5 @@ html_title = "Fornvyr"
 html_show_sourcelink = False
 html_sidebars = {"**": ["about.html", "navigation.html", "searchfield.html"]}
 html_theme_options = {"description": "Regler, värld och kunskapsunderlag"}
+# Preserve SVG fragment navigation at the same relative paths as in the source.
+html_extra_path = ["engineering/documentation/assets"]
